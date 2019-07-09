@@ -1,2 +1,1 @@
-# TCC-UDESC
-link-prediction
+# TCC
