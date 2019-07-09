@@ -1,0 +1,2726 @@
+,paper_id,keyword,keyword_id,keyword_position
+0,4506,design,160,3
+1,4506,avaliação,241,2
+2,4506,interface,375,1
+3,4506,semiótica,572,4
+4,4507,end-user programming,231,1
+5,4507,human-computer interaction,309,4
+6,4507,knowledge representation,400,3
+7,4507,semiotic engineering,568,2
+8,4508,ergonomia,238,1
+9,4508,sistemas interativos: desenvolvimento e avaliação,370,3
+10,4508,usabilidade,648,2
+11,4509,ensino à distância,203,3
+12,4509,interação homem-máquina,309,1
+13,4509,interfaces de realidade virtual,707,2
+14,4510,erro humano,305,2
+15,4510,confiabilidade humana,308,1
+16,4510,interfaces homem-computador,314,3
+17,4510,metodologia,432,4
+18,4511,interação musical,468,1
+19,4511,interfaces musicais,470,2
+20,4512,especificação de diálogo,179,3
+21,4512,ferramenta de desenvolvimento de interfaces,380,1
+22,4512,arquitetura de software,598,2
+23,4513,manipulação direta,193,4
+24,4513,interface gráfica,281,5
+25,4513,projetos de interfaces,378,3
+26,4513,semiótica,572,2
+27,4513,linguagem visual,711,1
+28,4514,sistemas distribuídos,200,2
+29,4514,ihc,309,1
+30,4514,sistemas reativos,539,3
+31,4514,rede de longa distância,738,4
+32,4515,análise,32,3
+33,4515,design,160,4
+34,4515,interface,375,1
+35,4515,semiótica,572,2
+36,4516,design languages,165,3
+37,4516,interfaces,385,1
+38,4516,semiotic engineering,568,2
+39,4517,internet,388,2
+40,4517,classificação semântica,565,3
+41,4517,comportamento dos usuários,689,4
+42,4517,www,741,1
+43,4518,awareness,57,5
+44,4518,trabalho cooperativo com suporte computadoriz,118,1
+45,4518,interfaces para trabalho cooperativo,136,7
+46,4518,cscw,143,2
+47,4518,sistemas de apoio à tomada de decisão em grupo,282,6
+48,4518,metáforas,431,4
+49,4518,percepções do usuário,682,3
+50,4519,projeto de interfaces,378,1
+51,4519,técnicas e ferramentas de especificação,605,2
+52,4519,user action notation (uan),661,3
+53,4520,avaliação heurística,302,3
+54,4520,métodos de avaliação de usabilidade de interfaces,384,1
+55,4520,avaliação da interação homem-computador (ihc),415,2
+56,4520,usabilidade,648,4
+57,4521,animação por computador,113,3
+58,4521,programação para o usuário final,231,2
+59,4521,interfaces gráficas,281,1
+60,4521,linguagens de programação,527,4
+61,4522,interfaces não-convencionais,644,2
+62,4522,realidade virtual,706,1
+63,4523,comunicação,106,3
+64,4523,design,160,2
+65,4523,interface,375,1
+66,4523,semiótica,572,4
+67,4524,call-center,68,3
+68,4524,ergonomia,238,1
+69,4524,serviços,577,2
+70,4525,semiótica computacional,111,1
+71,4525,design,160,2
+72,4525,análise de domínio,201,4
+73,4525,interfaces,385,3
+74,4526,voto eletrônico,217,3
+75,4526,ergonomia,238,1
+76,4526,interfaces humano-computador,314,2
+77,4527,design auxiliado por computador,115,4
+78,4527,design de interfaces,378,3
+79,4527,interfaces multi-usuário,467,2
+80,4527,engenharia semiótica,568,1
+81,4528,interação humano-computador,309,4
+82,4528,engenharia semiótica,568,2
+83,4528,usabilidade,648,3
+84,4528,design de interfaces de usuário,672,1
+85,4529,ergonomia,238,1
+86,4529,integração,343,5
+87,4529,interatividade e interação,373,6
+88,4529,aprendizagem,403,4
+89,4529,pedagogia,501,2
+90,4529,usabilidade,648,3
+91,4530,interfaces adaptativas,15,1
+92,4530,geração automática,54,4
+93,4530,recomendações ergonômicas,237,2
+94,4530,fatores humanos,306,3
+95,4531,raciocínio abdutivo,3,5
+96,4531,interação humano?computador,309,2
+97,4531,metáfora,431,3
+98,4531,metonímia,433,4
+99,4531,engenharia semiótica,568,1
+100,4532,rupturas de comunicação,108,4
+101,4532,design de ihc,293,2
+102,4532,semiótica,572,3
+103,4532,testes de usabilidade,657,1
+104,4533,interfaces homem-máquina,316,1
+105,4533,linguagem de interação,355,2
+106,4533,interfaces para surdos,386,3
+107,4533,linguagem de sinais,580,4
+108,4533,sign writing,582,5
+109,4534,defesa,157,2
+110,4534,recursos digitais,191,4
+111,4534,intimidade,391,1
+112,4534,auto-preservação,564,3
+113,4535,avaliação,241,3
+114,4535,interface,375,2
+115,4535,meta-comunicação,428,1
+116,4536,sites de comércio eletrônico,216,4
+117,4536,avaliação de usabilidade,650,1
+118,4536,participação do usuário,681,2
+119,4536,listas de verificação,696,3
+120,4537,affordances,25,1
+121,4537,communicability evaluation,102,2
+122,4537,semiotic engineering,568,3
+123,4538,software educacional,207,4
+124,4538,guidelines,284,2
+125,4538,projeto de interfaces,378,1
+126,4538,usabilidade,648,3
+127,4539,bate-papo,78,3
+128,4539,comunicação mediada por computador,123,1
+129,4539,internet,388,2
+130,4540,cognição,82,2
+131,4540,recomendações ergonômicas,237,4
+132,4540,interação humano-computador,309,1
+133,4540,multimídia,461,3
+134,4540,ergonomia de software,601,5
+135,4541,interação humano-computador,309,1
+136,4541,logging de software,602,3
+137,4541,avaliação de usabilidade,650,2
+138,4541,testes de usabilidade,657,4
+139,4543,sistemas de help online,488,1
+140,4543,engenharia semiótica,568,2
+141,4543,aplicações web,726,3
+142,4544,scenarios,557,1
+143,4544,semiotics,572,4
+144,4544,user interface design,672,3
+145,4544,web applications development,727,2
+146,4545,objetos de interface homem-computador,313,3
+147,4545,engenharia de usabilidade,649,1
+148,4545,avaliação de usabilidade,650,2
+149,4546,design,160,1
+150,4546,interface,375,2
+151,4546,semiótica,572,4
+152,4546,realidade virtual,706,3
+153,4547,interfaces humano-humano,315,2
+154,4547,design centrado no usuário,663,1
+155,4547,ambientes educacionais na web,730,3
+156,4548,avaliação de websites,735,1
+157,4548,usabilidade em websites,736,2
+158,4549,cores,98,1
+159,4549,percepção de cores,99,2
+160,4549,uso de cores em interfaces para a www,658,3
+161,4552,sistemas de informação geográfica (sig),274,2
+162,4552,interface como espaço de comunicação,377,1
+163,4552,design de interface,378,3
+164,4554,agents,26,6
+165,4554,collaborative interfaces,93,2
+166,4554,digital libraries,188,3
+167,4554,group spaces,283,5
+168,4554,personal spaces,508,4
+169,4554,personalized interfaces,510,1
+170,4561,testes de comunicabilidade,105,3
+171,4561,ferramentas de avaliação,248,4
+172,4561,inspeção formal de usabilidade,652,2
+173,4561,avaliação de interfaces de usuário,675,1
+174,4564,discourse structure,194,3
+175,4564,hci analysis,291,5
+176,4564,interaction model,356,2
+177,4564,multiple-environment interfaces,466,1
+178,4564,pragmatics,521,4
+179,4564,semiotic engineering,568,6
+180,4565,verificação de modelos,451,3
+181,4565,modelos navegação,475,2
+182,4565,avaliação de usabilidade,650,1
+183,4567,corporate portal,138,2
+184,4567,human-computer interaction,309,4
+185,4567,usability evaluation,650,1
+186,4567,web interface,732,3
+187,4573,domain-oriented application,202,3
+188,4573,organizational semiotics,492,2
+189,4573,participatory design,497,1
+190,4585,criança,79,1
+191,4585,internet,388,2
+192,4585,semiótica organizacional,492,4
+193,4585,design participativo,497,3
+194,4587,cegueira,60,1
+195,4587,interfaces de voz,718,3
+196,4587,escrita,740,2
+197,4600,scalable vector graphics,556,1
+198,4600,svg,614,2
+199,4600,xml,742,3
+200,4600,zui,744,4
+201,4601,avaliação,241,2
+202,4601,interface humano-computador,314,1
+203,4601,metodologia,432,3
+204,4602,telefones celulares,75,4
+205,4602,computadores de mão,287,2
+206,4602,ensaios de interação,360,3
+207,4602,avaliação de usabilidade,650,1
+208,4603,avaliação heurística participativa,496,1
+209,4604,interação com dispositivos móveis,440,2
+210,4604,testes com usuários,686,1
+211,4605,meds,425,2
+212,4605,métodos qualitativos,531,1
+213,4605,usuários,688,3
+214,4606,ambientes de educação a distância,198,1
+215,4606,visualização de informação,332,2
+216,4606,teleduc,630,3
+217,4607,sistemas de fóruns de discussão,195,2
+218,4607,recuperação de informação,331,3
+219,4607,engenharia semiótica,568,1
+220,4608,design de ihc,293,3
+221,4608,sistemas de ajuda online,488,1
+222,4608,engenharia semiótica,568,2
+223,4609,relatos de experiências,249,3
+224,4609,integração entre ihc e engenharia de software,344,1
+225,4609,desenvolvimento de sistemas interativos,369,2
+226,4610,planejamento,515,3
+227,4610,reengenharia,543,2
+228,4610,avaliação de usabilidade,650,1
+229,4611,sistemas agrícolas,29,4
+230,4611,sistemas de informação geográfica,274,2
+231,4611,interação humano-computador,309,1
+232,4611,sig web,579,3
+233,4612,aplicações extensíveis,253,2
+234,4612,programação por demonstração,526,1
+235,4612,uso de conhecimento prévio do domínio,659,3
+236,4613,tecnologias assistivas,44,3
+237,4613,simulador de teclado,396,2
+238,4613,teclado virtual,703,1
+239,4614,avaliação de interfaces,381,1
+240,4614,interfaces baseadas em mapas,417,3
+241,4614,engenharia semiótica,568,2
+242,4615,design representations,171,1
+243,4615,interaction modeling,357,2
+244,4615,multidisciplinary design teams,460,3
+245,4616,multi-criteria decision analysis,456,3
+246,4616,usability,648,2
+247,4616,usability patterns,656,1
+248,4617,communication-centered design,109,2
+249,4617,interaction design,352,3
+250,4617,semiotic engineering,568,5
+251,4617,sketching,586,4
+252,4617,streamlined approaches to hci design,613,1
+253,4618,help systems,301,4
+254,4618,interaction as conversation,351,3
+255,4618,interaction model,356,2
+256,4618,user interaction,667,1
+257,4619,digital interactive tv,186,1
+258,4619,human computer interaction,309,2
+259,4620,cognitive architectures,83,2
+260,4620,critical systems,140,4
+261,4620,hci design,293,3
+262,4620,human error,305,1
+263,4621,accessibility,7,3
+264,4621,inclusive design,323,1
+265,4621,participatory design,497,4
+266,4621,universal design,646,2
+267,4621,web engineering,731,5
+268,4622,device independence,176,3
+269,4622,multi-platform user interfaces,458,1
+270,4622,user interface adaptability,670,2
+271,4623,browserbased user interfaces,67,2
+272,4623,model-based user interface development,448,4
+273,4623,user interface components,671,3
+274,4623,user interface specification methods and languages,676,1
+275,4623,xml-based user interface description languages,743,5
+276,4624,inspection methods,338,2
+277,4624,qualitative methods,531,3
+278,4624,semiotic engineering,568,1
+279,4625,communicability evaluation,102,4
+280,4625,evaluation methods,244,2
+281,4625,hci inspection methods,297,3
+282,4625,semiotic engineering,568,1
+283,4626,geographic information systems in the web,275,3
+284,4626,human-computer interaction evaluation,311,1
+285,4626,semiotic model,571,2
+286,4627,lexical retrieve,405,3
+287,4627,sign language,580,2
+288,4627,sign lexicon,581,1
+289,4628,information visualization,332,1
+290,4628,search engines,561,2
+291,4628,web visualization,734,3
+292,4629,hci,309,1
+293,4629,multimodalidade,465,3
+294,4629,interfaces do usuário,677,2
+295,4629,integração de voz,717,4
+296,4630,action theory,12,5
+297,4630,association rules,45,2
+298,4630,cognitive engineering,87,6
+299,4630,data mining,152,1
+300,4630,human-computer interaction (hci),309,3
+301,4630,semiotic engineering,568,4
+302,4631,computer music,116,4
+303,4631,cooperative music prototyping,135,3
+304,4631,cscw,143,1
+305,4631,human-computer interaction,309,2
+306,4631,networked music,477,5
+307,4632,chat,78,2
+308,4632,collaboration,89,3
+309,4632,computer mediated communication,123,4
+310,4632,coordination,137,6
+311,4632,distance education,197,5
+312,4632,language action,401,1
+313,4633,affective computing,23,1
+314,4633,chat,78,4
+315,4633,emoticons,222,5
+316,4633,emotion models,224,3
+317,4633,instant messaging,340,2
+318,4634,recommender systems,542,2
+319,4634,virtual characters,701,1
+320,4635,animated simulation,35,2
+321,4635,programmig by demonstration,526,1
+322,4636,interface patterns,383,1
+323,4636,personas,511,4
+324,4636,user modeling,679,2
+325,4636,user profile,683,3
+326,4637,online applications,486,2
+327,4637,online services,489,1
+328,4637,service science,576,3
+329,4638,evaluation of multimodal interfaces,247,4
+330,4638,multimodal user interfaces,464,1
+331,4638,voice user interfaces,719,2
+332,4638,web,722,3
+333,4639,accessibility,7,3
+334,4639,audio games,49,4
+335,4639,haptics and gestures,289,5
+336,4639,mobile games,438,1
+337,4639,non-visual games,481,2
+338,4639,semiotic engineering,568,7
+339,4639,visually-impaired users,714,6
+340,4640,classification systems,80,1
+341,4640,communities of practice,110,3
+342,4640,social web,596,4
+343,4640,web collaborative systems,729,2
+344,4641,aplicação semi-estruturada do método de inspeção,337,1
+345,4642,artefatos digitais,181,3
+346,4642,interação humano-computador,309,4
+347,4642,design da interação,352,2
+348,4642,tv digital interativa,362,1
+349,4642,análise semiótica,567,5
+350,4643,collaborative systems,95,2
+351,4643,manas,416,3
+352,4643,mediated communication,420,6
+353,4643,semiotic engineering,568,1
+354,4643,sociability,588,5
+355,4643,social impact,590,4
+356,4644,context awareness,132,1
+357,4644,mobile computing,436,2
+358,4645,brazilian digital tv system,64,3
+359,4645,digital tv,192,2
+360,4645,sbtvd,555,4
+361,4645,usability evaluation methodology,651,1
+362,4646,contextual design,133,2
+363,4646,interactive tv,371,1
+364,4646,parallel design,495,3
+365,4646,qualitative methods in design,532,4
+366,4647,interface agents,376,1
+367,4647,recommender systems,542,2
+368,4648,annotations,36,3
+369,4648,interactive displays,364,1
+370,4648,multi-layer systems,457,5
+371,4648,strata,612,6
+372,4648,synchronous collaboration,615,4
+373,4648,telepointers,631,2
+374,4649,cognitive authority,84,4
+375,4649,folkauthority,260,1
+376,4649,folksonomy,261,2
+377,4649,information overload,329,3
+378,4650,curriculum,149,2
+379,4650,hci education,295,1
+380,4650,heuristic evaluation,302,3
+381,4650,usability,648,4
+382,4651,common sense,100,1
+383,4651,e-learning,203,2
+384,4651,patterns,499,3
+385,4652,affect,20,1
+386,4652,computer-mediated communication,123,2
+387,4652,emotion,223,3
+388,4653,end-user programming,231,1
+389,4653,middleware ginga,279,5
+390,4653,interactive digital tv applications,363,2
+391,4653,nested context language,476,4
+392,4653,user studies,685,3
+393,4654,cbir,73,5
+394,4654,evaluation,241,3
+395,4654,human-computer interaction,309,1
+396,4654,quis,537,4
+397,4655,adaptive systems,16,2
+398,4655,e-learning,203,1
+399,4655,intelligent agents,346,3
+400,4656,personality traits,509,2
+401,4656,recommendation,541,3
+402,4656,reputation,546,4
+403,4656,user psychological profile,684,1
+404,4657,sistemas colaborativos,95,1
+405,4657,frameworks,265,3
+406,4657,modelos,450,2
+407,4658,agile development,28,2
+408,4658,institutionalization of usability,342,1
+409,4658,iso tr 18529,395,4
+410,4658,p-cmm,493,5
+411,4658,usability maturity,654,3
+412,4659,linguagens de descrição,159,2
+413,4659,end-user development,230,3
+414,4659,end-user programming,231,4
+415,4659,extensão de sistemas,618,1
+416,4659,especificação de sistemas,619,5
+417,4660,computer aided musical education,121,1
+418,4660,human factors and children,307,2
+419,4661,old people,211,2
+420,4661,mobile,434,3
+421,4661,user interface,669,1
+422,4662,design,160,5
+423,4662,entrevistas,390,4
+424,4662,metodologia,432,3
+425,4662,pda,500,2
+426,4662,estatística,610,6
+427,4662,usabilidade,648,1
+428,4663,sistemas colaborativos,95,3
+429,4663,ferramentas epistêmicas,236,2
+430,4663,manas,416,4
+431,4663,comunicação mediada,420,6
+432,4663,engenharia semiótica,568,1
+433,4663,impacto social,590,5
+434,4664,accessibility,7,3
+435,4664,digital divide,182,2
+436,4664,website evaluation,735,1
+437,4665,método de avaliação de comunicabilidade,103,2
+438,4665,software educacional,207,3
+439,4665,engenharia semiótica,568,1
+440,4666,awareness,57,4
+441,4666,communication,106,1
+442,4666,inclusive social networks,324,3
+443,4666,instant messaging tools,341,2
+444,4666,organizational semiotics,492,6
+445,4666,participatory design,497,5
+446,4667,interaction design,352,1
+447,4667,interaction modeling,357,2
+448,4667,semiotic engineering,568,3
+449,4668,enciclopédia colaborativa,91,4
+450,4668,qualidade,535,3
+451,4668,engenharia semiótica,568,1
+452,4668,método de inspeção semiótica,570,2
+453,4668,wikipedia,739,5
+454,4669,interação humano computador,309,3
+455,4669,validação,691,2
+456,4669,verificação,695,1
+457,4670,accessibility,7,2
+458,4670,additional content,17,5
+459,4670,cognitive psychology,88,6
+460,4670,digital tv,192,1
+461,4670,human-computer interaction,309,3
+462,4670,comprehension of video,698,4
+463,4671,flexible systems,259,2
+464,4671,norms,482,5
+465,4671,participatory design,497,4
+466,4671,tailoring,622,3
+467,4671,user interface design,672,1
+468,4672,design rationale,170,4
+469,4672,inclusive social networks,324,1
+470,4672,meta-communication,428,3
+471,4672,socially aware design,597,2
+472,4673,computer music,116,1
+473,4673,interaction design patterns,353,3
+474,4673,mobile devices,437,5
+475,4673,mobile interaction design,439,4
+476,4673,mobile music,442,2
+477,4674,celulares,75,3
+478,4674,padrões de projeto,168,1
+479,4674,web móvel,443,4
+480,4674,personas,511,2
+481,4674,w3c,721,5
+482,4675,diálogo,178,2
+483,4675,sistemas de ajuda online,488,1
+484,4676,software social,595,1
+485,4676,web social,596,3
+486,4676,valores,692,2
+487,4677,3d gesture recognition,1,2
+488,4677,gesture interface,277,1
+489,4677,interaction in 3d virtual environments,354,3
+490,4678,evaluation,241,3
+491,4678,universal design,646,1
+492,4678,web accessibility guidelines,725,2
+493,4679,baseada em modelos,444,2
+494,4679,engenharia de software,600,3
+495,4679,uml,643,4
+496,4679,avaliação de usabilidade,650,1
+497,4680,digital games,183,2
+498,4680,heuristic evaluation,302,1
+499,4680,playability,516,3
+500,4681,innovation,334,5
+501,4681,interactive surfaces,367,1
+502,4681,multi-tactile interfaces,459,2
+503,4681,speech recognition,606,4
+504,4681,voice interfaces,718,3
+505,4682,metodologia híbrida,317,4
+506,4682,aplicação multimodal,462,3
+507,4682,interface multimodal com o usuário,464,1
+508,4682,avaliação de usabilidade,650,2
+509,4683,surdos,153,3
+510,4683,comunidades online,487,1
+511,4683,engenharia semiótica,568,4
+512,4683,sociabilidade,588,2
+513,4683,redes sociais,593,5
+514,4684,assistive technology,44,1
+515,4684,computer-aided therapy,122,2
+516,4684,participatory design,497,3
+517,4684,verbally impaired people,694,4
+518,4685,cerebral palsy,76,1
+519,4685,social inclusion,591,3
+520,4685,web accessibility,724,2
+521,4686,digital legacy,187,2
+522,4686,digital life and death,189,4
+523,4686,posthumous interaction,520,5
+524,4686,social web,596,1
+525,4686,volition,720,3
+526,4687,cultural aspects of hci,144,1
+527,4687,cultural-aware issues,146,2
+528,4687,internationalization,387,3
+529,4687,localization,410,4
+530,4688,accessibility evaluation,8,4
+531,4688,accessibility tools,10,2
+532,4688,guidelines,284,3
+533,4688,web accessibility,724,1
+534,4689,accessibility recommendations,9,2
+535,4689,functional illiteracy,266,1
+536,4690,conceptual metaphors for hci design,124,3
+537,4690,cross-cultural systems,141,1
+538,4690,hci and culture,292,2
+539,4691,diretrizes de acessibilidade,6,3
+540,4691,acessibilidade,7,2
+541,4691,análise de conteúdo,128,5
+542,4691,jogos eletrônicos,213,1
+543,4691,pessoas com necessidades especiais,505,4
+544,4692,interface adaptativa,15,1
+545,4692,estudo de caso,71,3
+546,4692,jogos narrativos,472,2
+547,4693,modelo de interface,382,2
+548,4693,avaliação remota de usabilidade,545,1
+549,4693,análise de comportamento do usuário,662,4
+550,4693,rastreamento da interação do usuário,668,3
+551,4694,eco-feedback technology,204,2
+552,4694,motivation,454,1
+553,4694,residential energy feedback systems,550,3
+554,4696,sistema colaborativo,95,4
+555,4696,marketing,419,2
+556,4696,tecnologia,629,3
+557,4696,experiências de usuário,666,1
+558,4697,ergonomia,238,1
+559,4697,ihc,309,3
+560,4697,engenharia de usabilidade,649,2
+561,4699,behavioral personas,59,1
+562,4699,data mining,152,5
+563,4699,knowledge extraction,399,4
+564,4699,user modeling,679,2
+565,4699,user profile,683,3
+566,4700,marco de desarrollo,174,3
+567,4700,sistema interactivo,368,1
+568,4700,integración de procesos software,603,4
+569,4700,usabilidad,648,2
+570,4700,desarrollo de la interfaz de usuario,674,5
+571,4702,modelos de interação humano-computador,312,2
+572,4702,linguagem de modelagem,449,1
+573,4702,técnicas de inspeção de usabilidade,653,3
+574,4703,expressões de comunicabilidade,104,3
+575,4703,sistemas de ajuda em pares,502,1
+576,4703,engenharia semiótica,568,2
+577,4704,automating media production,55,1
+578,4704,automation,56,3
+579,4704,disruptive technology,196,4
+580,4704,post-production,519,2
+581,4704,user centered evaluation,664,5
+582,4705,information processing,330,3
+583,4705,m-health,413,2
+584,4705,sensemaking,573,1
+585,4706,interação humano-computador,309,1
+586,4706,persona,511,3
+587,4706,design centrado no usuário,663,2
+588,4707,applicability,37,2
+589,4707,semiotic engineering,568,4
+590,4707,semiotic inspection method,570,1
+591,4707,systematic literature review,617,3
+592,4708,acessibilidade,7,3
+593,4708,usuários idosos,210,1
+594,4708,comércio eletrônico,215,2
+595,4708,usabilidade,648,4
+596,4709,interfaces ajustáveis,18,1
+597,4709,celular,75,3
+598,4709,design,160,5
+599,4709,idosos,211,4
+600,4709,flexibilidade,257,2
+601,4710,information visualization,332,1
+602,4710,likert scale,408,3
+603,4710,user interfaces,677,2
+604,4711,aplicaciones,38,2
+605,4711,televisión digital interactiva,361,1
+606,4711,interactividad,372,4
+607,4711,usabilidad,648,3
+608,4712,accessibility,7,2
+609,4712,people,504,3
+610,4712,ria,552,1
+611,4712,systematic literature review,617,4
+612,4712,web 20,723,5
+613,4713,acessibilidade,7,1
+614,4713,dispositivos móveis,437,2
+615,4713,engenharia de requisitos,547,3
+616,4714,interação humano-computador,309,3
+617,4714,modelos de maturidade/capacidade de processo ,523,2
+618,4714,engenharia de usabilidade,649,1
+619,4715,abstraction,4,7
+620,4715,communicability evaluation method,103,5
+621,4715,computer science education,117,2
+622,4715,hci education,295,1
+623,4715,semiotic engineering,568,3
+624,4715,semiotic inspection method,570,4
+625,4715,systematic interpretation,616,6
+626,4716,case-based reasoning,72,1
+627,4716,human-computer interaction,309,3
+628,4716,user interface design,672,2
+629,4717,computer as media,114,2
+630,4717,mediation technology,424,3
+631,4717,semiotic engineering,568,1
+632,4718,accessibility,7,1
+633,4718,accessible technologies,11,3
+634,4718,human-computer interaction,309,2
+635,4719,design for all,162,2
+636,4719,gwap,285,1
+637,4719,gwido,286,3
+638,4719,participatory design,497,4
+639,4720,acessibilidade,7,3
+640,4720,signos sonoros,47,5
+641,4720,comunicabilidade,101,2
+642,4720,jogos digitais,183,6
+643,4720,engenharia semiótica,568,4
+644,4720,método de inspeção semiótica,570,1
+645,4721,accessibility,7,5
+646,4721,alternative,30,3
+647,4721,assistive technologies,44,2
+648,4721,augmented communication,50,4
+649,4721,participatory design,497,1
+650,4722,interface cérebro-computador,61,1
+651,4722,eeg,208,5
+652,4722,headset,298,4
+653,4722,interação humano-computador,309,3
+654,4722,icc,319,2
+655,4722,semiótica organizacional,492,6
+656,4723,interação humano-computador,309,3
+657,4723,semiótica organizacional,492,6
+658,4723,prototipação rápida,538,2
+659,4723,interface de usuário tangível,624,1
+660,4723,tui,639,4
+661,4724,brazilian sign language,65,2
+662,4724,depth cameras,158,4
+663,4724,gesture recognition,278,1
+664,4724,kinect,398,3
+665,4725,comunicação,106,3
+666,4725,difusão de inovações,180,2
+667,4725,redes sociais online,490,1
+668,4725,educação permanente,506,4
+669,4726,3d navigation,2,3
+670,4726,design research,172,2
+671,4726,interaction,349,5
+672,4726,large displays,402,1
+673,4726,usability,648,4
+674,4727,sistemas colaborativos,95,2
+675,4727,método de avaliação de comunicabilidade,103,3
+676,4727,redes virtuais de colaboração científica,558,4
+677,4727,engenharia semiótica,568,1
+678,4728,death representations,156,3
+679,4728,digital legacy,187,4
+680,4728,internet generation,389,2
+681,4728,posthumous interaction,520,1
+682,4729,assessment,42,2
+683,4729,communicability,101,5
+684,4729,evaluation method,244,4
+685,4729,semiotic engineering,568,3
+686,4729,semiotic inspection method,570,1
+687,4730,ethnography,240,2
+688,4730,information and communication technologies,325,4
+689,4730,natural user interfaces,474,3
+690,4730,third place,634,1
+691,4731,automatic evaluation,53,3
+692,4731,experience sampling method,250,5
+693,4731,logging,411,4
+694,4731,usability evaluation,650,1
+695,4731,user experience,666,2
+696,4732,digital interactive television,185,3
+697,4732,geo-localization,273,1
+698,4732,interaction model,356,4
+699,4732,maps,418,2
+700,4732,multi-criteria decision analysis,456,5
+701,4733,context,131,4
+702,4733,flexible process,258,3
+703,4733,timelines,636,1
+704,4733,visualization,712,2
+705,4734,facebook,256,3
+706,4734,privacidade,522,1
+707,4734,redes sociais,593,2
+708,4734,experiência do usuário,666,4
+709,4735,análise,32,1
+710,4735,conferências,126,2
+711,4735,publicações,530,3
+712,4735,tagclouds,621,4
+713,4736,decisões de design,161,2
+714,4736,idosos,211,3
+715,4736,emoção,223,1
+716,4736,avaliação emocional,227,5
+717,4736,interação,349,4
+718,4737,affective quality,24,2
+719,4737,eco-feedback technology,204,5
+720,4737,extrinsic motivation,254,4
+721,4737,intrinsic motivation,392,3
+722,4737,motivation,454,1
+723,4738,agentsheets,27,3
+724,4738,end-user programming,231,2
+725,4738,live documentation computational thinking acquisition,409,1
+726,4739,integration between human-computer interaction and software engineering,344,3
+727,4739,usability evaluation,650,1
+728,4739,usability of designs models,655,2
+729,4740,acessibilidade,7,2
+730,4740,avaliação de comunicabilidade,102,3
+731,4740,surdos,153,4
+732,4740,interação humano-computador,309,5
+733,4740,observação de usuários,680,1
+734,4741,android,34,1
+735,4741,interação humano-computador,309,2
+736,4742,affect and emotions in design,21,3
+737,4742,affectibility,22,1
+738,4742,design for with and by children,163,2
+739,4742,learning technology,404,4
+740,4742,olpc,485,5
+741,4743,help systems,301,1
+742,4743,metalinguistic signs,430,2
+743,4743,semiotic engineering,568,3
+744,4744,interaction design,352,1
+745,4744,paper based,494,4
+746,4744,rich interactions,553,2
+747,4744,sketching,586,3
+748,4744,technique,627,5
+749,4745,accessibility,7,5
+750,4745,functional illiteracy,266,1
+751,4745,low literacy users,412,2
+752,4745,recommendations,541,4
+753,4745,search engine interface,560,3
+754,4746,accessibility,7,4
+755,4746,assistive technology,44,3
+756,4746,cursor controller,150,2
+757,4746,iris tracking,394,1
+758,4746,residential environmental control,551,6
+759,4746,virtual keyboard,703,5
+760,4747,cognitive dimensions analysis,85,3
+761,4747,interaction modeling language,358,2
+762,4747,model-based development,447,1
+763,4748,facebook,256,2
+764,4748,privacy,522,1
+765,4748,social networks,593,3
+766,4748,user experience,666,4
+767,4749,facebook,256,3
+768,4749,online social networks,490,1
+769,4749,semiotic engineering,568,5
+770,4749,semiotic inspection method,570,4
+771,4749,sociability,588,2
+772,4750,inclusão digital,184,4
+773,4750,jogos,267,3
+774,4750,prototipação,528,2
+775,4750,design universal,646,1
+776,4751,activity diagrams,14,3
+777,4751,inspection,336,2
+778,4751,usability evaluation,650,1
+779,4752,back navigation,58,1
+780,4752,dialog management,177,2
+781,4752,end-user development,230,4
+782,4752,mediated metacommunication,421,3
+783,4753,autismo,52,2
+784,4753,jogos colaborativos,92,4
+785,4753,cultura e ihc,148,3
+786,4753,design,160,1
+787,4754,acessibilidade,7,1
+788,4754,comunicabilidade,101,2
+789,4754,surdez,155,3
+790,4754,diálogos de mediação,423,4
+791,4755,acessibilidade,7,1
+792,4755,analfabetismo funcional,266,3
+793,4755,inclusão social,591,2
+794,4756,foursquare,263,4
+795,4756,redes geossociais,276,1
+796,4756,disponibilidade da informação,326,3
+797,4756,contextos urbanos,647,2
+798,4757,contextual help,134,3
+799,4757,similarity functions,584,2
+800,4757,web navigation,733,1
+801,4758,design for all,162,2
+802,4758,gwap,285,1
+803,4758,gwido,286,3
+804,4758,human computation,304,4
+805,4759,human-computer interaction,309,4
+806,4759,recommender systems,542,2
+807,4759,semiotic engineering,568,3
+808,4759,statistical data visualization,609,1
+809,4760,card,70,4
+810,4760,design participativo,497,2
+811,4760,perfil,524,3
+812,4760,ambiente ubíquo,642,1
+813,4761,aesthetic experience,19,2
+814,4761,authorship poetry,51,3
+815,4761,generative literature,272,1
+816,4762,pesquisa exploratória,252,1
+817,4762,recuperação de informação,331,3
+818,4762,histórico de pesquisa,562,2
+819,4763,criatividade,139,1
+820,4763,processo de inovação,335,3
+821,4763,experiência de usuário,666,2
+822,4764,sistemas colaborativos,95,1
+823,4764,comunicabilidade,101,7
+824,4764,comparação de métodos de avaliação,245,6
+825,4764,mac-g,414,4
+826,4764,manas,416,5
+827,4764,engenharia semiótica,568,2
+828,4764,mis,583,3
+829,4765,formative evaluation,262,3
+830,4765,human-computer interaction,309,6
+831,4765,model-based design,446,4
+832,4765,molic,452,2
+833,4765,molic woz,453,1
+834,4765,semiotic engineering,568,5
+835,4766,brazilian symposium,66,2
+836,4766,conferences,126,4
+837,4766,hci,309,1
+838,4766,visual exploration,708,3
+839,4767,critérios de acessibilidade,5,3
+840,4767,sistemas gerenciadores de conteúdo,129,2
+841,4767,estudo quantitativo,536,4
+842,4767,acessibilidade web,724,1
+843,4768,accessibility,7,2
+844,4768,text entry,632,3
+845,4768,user interface design and evaluation,672,4
+846,4768,user interface design and evaluation,675,0
+847,4768,virtual keyboard,703,1
+848,4769,idosos,211,1
+849,4769,interface,375,4
+850,4769,ipad,393,5
+851,4769,tablet,620,3
+852,4769,usabilidade,648,2
+853,4770,cognitive dimensions of notations,86,4
+854,4770,communicability,101,6
+855,4770,human-computer interaction,309,1
+856,4770,notations,483,3
+857,4770,semiotic engineering,568,7
+858,4770,software development tools,599,2
+859,4770,usability,648,5
+860,4771,awareness,57,2
+861,4771,collective knowledge construction,97,3
+862,4771,energy consumption,232,1
+863,4771,organizational semiotics,492,4
+864,4772,design,160,3
+865,4772,interação humano-computador,309,5
+866,4772,partes interessadas,374,4
+867,4772,semiótica organizacional,492,6
+868,4772,personas,511,1
+869,4772,aplicações terapêuticas,633,2
+870,4773,metáforas de perspectivas culturais,145,2
+871,4773,ihc e cultura,292,4
+872,4773,avaliação de ihc,296,1
+873,4773,engenharia semiótica,568,3
+874,4774,captura & acesso,69,2
+875,4774,documentos hipermídia,318,4
+876,4774,pesquisa qualitativa,533,1
+877,4774,rastreabilidade de pesquisa,548,3
+878,4775,interaction design,352,3
+879,4775,prototyping,528,1
+880,4775,user experience,666,2
+881,4776,user interface evaluation,675,2
+882,4776,video annotation,697,1
+883,4777,sistemas colaborativos,95,2
+884,4777,modelos de projeto,166,4
+885,4777,manas,416,5
+886,4777,modelagem,449,3
+887,4777,molic,452,6
+888,4777,engenharia semiótica,568,1
+889,4778,diagrama de atividade,14,2
+890,4778,estudo empírico,229,4
+891,4778,análise hierárquica de tarefa,303,3
+892,4778,modelo de tarefas,625,1
+893,4779,emotion,223,2
+894,4779,emotional assessment,226,1
+895,4779,emotional experience,228,5
+896,4779,method of evaluation,244,3
+897,4779,human-computer interaction,309,4
+898,4780,case-based reasoning,72,2
+899,4780,design knowledge,164,3
+900,4780,design tools,173,4
+901,4780,hci design,293,1
+902,4780,human-computer interaction,309,5
+903,4780,semiotic engineering,568,6
+904,4781,esm,239,5
+905,4781,experimento,251,2
+906,4781,dispositivos móveis,437,4
+907,4781,avaliação de usabilidade,650,3
+908,4781,experiência dos usuários,666,1
+909,4782,data collection,151,3
+910,4782,guidelines,284,6
+911,4782,mobile application,435,7
+912,4782,participatory design,497,5
+913,4782,pictive,513,4
+914,4782,ubiquitous computing,641,1
+915,4782,user profile,683,2
+916,4783,regras de associação,45,3
+917,4783,mineração de dados,152,2
+918,4783,dispositivos móveis,437,5
+919,4783,smartphones,587,4
+920,4783,avaliação de usabilidade,650,1
+921,4784,facebook,256,3
+922,4784,redes sociais online,490,1
+923,4784,estratégias de persuasão,512,2
+924,4785,interação,349,2
+925,4785,observação,484,3
+926,4785,diretivas,517,4
+927,4785,displays públicos,529,1
+928,4786,privacidade,522,2
+929,4786,estudo qualitativo,534,3
+930,4786,redes sociais,593,1
+931,4788,memorial digital,190,1
+932,4788,luto,455,2
+933,4788,prototipação,528,5
+934,4788,recomendações,541,6
+935,4788,web social,596,4
+936,4788,sensações dos usuários,690,3
+937,4789,gaze gesture,269,3
+938,4789,gaze-based interaction,270,1
+939,4789,meta-keys,429,2
+940,4790,acessibilidade,7,1
+941,4790,aplicações móveis,435,2
+942,4790,interações baseadas na fala,607,3
+943,4791,design da informação,327,2
+944,4791,realidade mediada,422,1
+945,4791,operações técnicas,626,3
+946,4791,instruções visuais,710,4
+947,4792,sondas de design,167,1
+948,4792,meta design,427,3
+949,4792,engenharia semiótica,568,2
+950,4792,tecnologias de apoio para o tratamento de transtorno do espectro autista,628,4
+951,4793,aspect-oriented programming,41,3
+952,4793,interaction monitoring,359,2
+953,4793,three-dimensional virtual environments,635,1
+954,4794,interação corporificada,218,1
+955,4794,aprendizagem corporificada,219,2
+956,4794,videogames na educação,700,3
+957,4795,simpósio brasileiro,66,2
+958,4795,rede de coautoria,81,3
+959,4795,análise da colaboração,90,5
+960,4795,ihc,309,1
+961,4795,análise de redes sociais,592,6
+962,4795,exploração visual,708,4
+963,4796,reactivision,540,4
+964,4796,scratch,559,5
+965,4796,storytelling,611,3
+966,4796,interfaces tangíveis,623,1
+967,4796,tui,639,2
+968,4797,audio,48,3
+969,4797,haptics,288,4
+970,4797,multimodal interfaces,463,5
+971,4797,videogames,699,1
+972,4797,visually impaired,714,2
+973,4798,seleção de conteúdo,130,2
+974,4798,entrevista semiestruturada,566,4
+975,4798,análise de sentimentos,574,1
+976,4798,método de explicitação do discurso subjacente,645,5
+977,4798,experiência do usuário,666,3
+978,4799,end-user programming,231,4
+979,4799,self-expression,563,2
+980,4799,semiotic engineering,568,1
+981,4799,virtual learning environments,705,3
+982,4800,english as second language,234,1
+983,4800,placement test,514,2
+984,4800,semiotic inspection method,570,3
+985,4808,accessibility,7,2
+986,4808,deafness,155,1
+987,4808,health campaign,299,3
+988,4809,android,34,3
+989,4809,libras,407,1
+990,4809,smartphone,587,4
+991,4809,vocalizer,716,2
+992,4810,assistive technology,44,2
+993,4810,eeg analysis,209,4
+994,4810,environment control,235,3
+995,4810,interaction,349,1
+996,4811,analfabetismo funcional,266,2
+997,4811,diálogos de mediação,423,4
+998,4811,inclusão social,591,3
+999,4811,acessibilidade web,724,1
+1000,4811,colaboração na web,728,5
+1001,4812,color,98,1
+1002,4812,design,160,2
+1003,4812,emotion,223,3
+1004,4812,human factors,306,4
+1005,4812,human-computer interaction,309,5
+1006,4813,gender identity,271,1
+1007,4813,interfaces,385,4
+1008,4813,lgbt,406,3
+1009,4813,sexual orientation,578,2
+1010,4814,alternative remote control,31,1
+1011,4814,arduino,40,4
+1012,4814,attention-aware system,46,3
+1013,4814,interactive tv,371,2
+1014,4815,hci,309,4
+1015,4815,personal information disclosure,507,2
+1016,4815,privacy,522,1
+1017,4815,semiotic engineering,568,3
+1018,4816,computer vision,119,2
+1019,4816,intelligent image processing,347,3
+1020,4816,interactive gestures,366,1
+1021,4816,natural interaction,473,5
+1022,4816,pattern recognition,498,4
+1023,4817,participatory design,497,3
+1024,4817,ubicard,640,2
+1025,4817,ubiquitous computing,641,1
+1026,4817,user diversity,665,4
+1027,4818,design language,165,2
+1028,4818,interaction design,352,1
+1029,4818,molic,452,3
+1030,4819,cdn,74,4
+1031,4819,linguagem de design,165,2
+1032,4819,design de interação,352,1
+1033,4819,molic,452,3
+1034,4820,change in meaning,77,4
+1035,4820,communication and collaboration,107,3
+1036,4820,mobile learning,441,1
+1037,4820,whatsapp,737,2
+1038,4821,design,160,5
+1039,4821,evaluation,241,6
+1040,4821,multimodal interfaces,463,1
+1041,4821,serious videogames,575,3
+1042,4821,virtual environments,702,2
+1043,4821,visual impairment,709,4
+1044,4822,inspection technique,339,3
+1045,4822,interaction design,352,1
+1046,4822,interaction modeling,357,2
+1047,4825,hci diffusion in brazil,294,2
+1048,4825,inter-region collaboration,348,3
+1049,4825,researcher migration,549,1
+1050,4826,educational mobile apps,206,2
+1051,4826,gamification,268,1
+1052,4826,semiotic engineering,568,3
+1053,4826,semiotic inspection method,570,4
+1054,4827,apropriação,39,5
+1055,4827,programação,525,2
+1056,4827,autoexpressão,563,1
+1057,4827,engenharia semiótica,568,3
+1058,4827,uso de exemplos,660,4
+1059,4828,digital games,183,2
+1060,4828,semiotic engineering,568,3
+1061,4828,semiotic inspection method,570,1
+1062,4829,communicability,101,1
+1063,4829,elderly,211,2
+1064,4829,facebook,256,5
+1065,4829,mac-g,414,3
+1066,4829,social networks,593,4
+1067,4830,keywords,397,2
+1068,4830,usability,648,4
+1069,4830,usability evaluation,650,3
+1070,4830,verbalization,693,1
+1071,4831,interface design and evaluation,293,2
+1072,4831,interface design and evaluation,296,3
+1073,4831,immersive virtual reality,321,1
+1074,4831,training staff,637,4
+1075,4832,computer wearable,120,3
+1076,4832,games,267,1
+1077,4832,natural interaction,473,4
+1078,4832,rehabilitation,544,6
+1079,4832,videogames,699,2
+1080,4832,virtual reality,706,5
+1081,4833,crowdsourcing,142,3
+1082,4833,design research,172,4
+1083,4833,engagement with news,233,6
+1084,4833,political stories,518,5
+1085,4833,social curation,589,1
+1086,4833,user-curated narratives,687,2
+1087,4834,face detection,255,1
+1088,4834,interaction,349,3
+1089,4834,kinect,398,4
+1090,4834,vivacity,715,2
+1091,4835,facebook,256,2
+1092,4835,information disclosure,328,3
+1093,4835,social network,593,1
+1094,4836,collaborative systems design,96,1
+1095,4836,configuration settings,127,4
+1096,4836,impact over time,322,5
+1097,4836,interaction anticipation,350,3
+1098,4836,simulation,585,2
+1099,4837,culture,147,2
+1100,4837,education,205,4
+1101,4837,games,267,3
+1102,4837,gamification,268,6
+1103,4837,hcd,290,1
+1104,4837,open data,491,5
+1105,4838,culture,147,2
+1106,4838,design,160,1
+1107,4838,grand challenges,280,3
+1108,4838,ideal rules,320,4
+1109,4838,norms,482,5
+1110,4839,deaf evaluation,154,3
+1111,4839,semiotic engineering,568,1
+1112,4839,semiotic inspection intermediated method,569,2
+1113,4839,virtual learning environment moodle,704,4
+1114,4840,elderly users,212,2
+1115,4840,facebook,256,4
+1116,4840,mobile devices,437,1
+1117,4840,personas,511,3
+1118,4841,affect,20,2
+1119,4841,affectibility,22,1
+1120,4841,braindraw,62,7
+1121,4841,brainwritting,63,6
+1122,4841,emotions,223,3
+1123,4841,mobile,434,5
+1124,4841,participatory design,497,4
+1125,4842,interactive environment,365,2
+1126,4842,model for interactive enviroments,445,1
+1127,4842,standardization,608,3
+1128,4842,user centered design,663,4
+1129,4843,narrative,471,3
+1130,4843,sam,554,4
+1131,4843,storytelling,611,2
+1132,4843,tui,639,1
+1133,4844,analytical method,33,3
+1134,4844,emotional aspects,225,2
+1135,4844,evaluation in hci,242,1
+1136,4844,inspection method,338,4
+1137,4844,semiotics,572,5
+1138,4845,assessment methodologies software,43,1
+1139,4845,electroencephalogram,214,4
+1140,4845,neurophysiologic measures,478,2
+1141,4845,neuroscience,479,3
+1142,4846,gamification,268,1
+1143,4846,interface design,378,3
+1144,4846,user profile,683,2
+1145,4847,active learning,13,1
+1146,4847,collaborative learning system,94,4
+1147,4847,hci,309,2
+1148,4847,interaction design,352,3
+1149,4847,organizational semiotics,492,5
+1150,4847,peer instruction,503,6
+1151,4848,computer science education,117,1
+1152,4848,concurrent programming,125,3
+1153,4848,programming,525,2
+1154,4849,computational thinking at elementary level,112,1
+1155,4849,development of games about computational thinking,175,3
+1156,4849,evaluation of digital games,246,2
+1157,4850,infovis,333,3
+1158,4850,space-filling methods,604,2
+1159,4850,tree map,638,1
+1160,4850,visualization,712,4
+1161,4851,crowdsourcing,142,4
+1162,4851,emergency coordination,220,3
+1163,4851,emergency management,221,2
+1164,4851,information visualization,332,1
+1165,4852,accessibility,7,3
+1166,4852,gaze-based interaction,270,1
+1167,4852,musical interface,469,2
+1168,4853,cognitive authority,84,2
+1169,4853,social networks,593,3
+1170,4853,social recommendation,594,1
+1171,4854,design process,169,2
+1172,4854,healthcare,300,4
+1173,4854,human computer interaction,309,1
+1174,4854,mental illness,426,5
+1175,4854,non-disruptive workflow,480,6
+1176,4854,user centered design,663,3
+1177,4855,browser-based user interfaces,67,1
+1178,4855,model-based user interface development,448,2
+1179,4855,user interface description languages,745,3
+1180,4855,user-interface components,746,4
+1181,4855,user-interface specification methods and languages,747,5
+1182,4855,xml-based user interface languages,748,6
+1183,4856,information visualization,332,1
+1184,4856,search engines,561,2
+1185,4856,web visualization,734,3
+1186,4857,brazilian open mind common sense,749,1
+1187,4857,computer-aid education,750,2
+1188,4857,health care,751,3
+1189,4857,home care,752,4
+1190,4857,learning action,753,5
+1191,4858,architecture,754,1
+1192,4858,input adaptation,755,2
+1193,4858,input devices,756,3
+1194,4858,input transformation,757,4
+1195,4859,collaborative systems,95,1
+1196,4859,evaluation,241,2
+1197,4859,user testing,758,3
+1198,4860,context,131,1
+1199,4860,mathematics learning,759,2
+1200,4860,tangible interfaces,623,3
+1201,4861,digital television,760,1
+1202,4861,itv,761,2
+1203,4861,mobile tv,762,3
+1204,4861,mobile devices,437,4
+1205,4861,mobility,763,5
+1206,4862,cognitive architectures,83,1
+1207,4862,human error,305,2
+1208,4862,task modeling,764,3
+1209,4863,dialogismo,765,1
+1210,4863,gêneros discursivos,766,2
+1211,4863,interface,375,3
+1212,4864,digital tv,192,1
+1213,4864,distance learning,767,2
+1214,4864,paper interface,768,3
+1215,4864,usability,648,4
+1216,4865,content analysis,128,1
+1217,4865,value-centred hci,769,2
+1218,4866,dort,770,1
+1219,4866,delphi,771,2
+1220,4866,ergonomic software,772,3
+1221,4866,physiotherapy evaluation,773,4
+1222,4867,uiml,774,1
+1223,4867,concrete interaction pattern,775,2
+1224,4867,interaction pattern,776,3
+1225,4867,user interface description language,777,4
+1226,4867,user interface reuse,778,5
+1227,4868,cmmi,779,1
+1228,4868,process improvement,780,2
+1229,4868,usability,648,3
+1230,4869,a,781,1
+1231,4870,a,781,1
+1232,4871,a,781,1
+1233,4872,a,781,1
+1234,4873,a,781,1
+1235,4874,a,781,1
+1236,4875,a,781,1
+1237,4876,a,781,1
+1238,4877,a,781,1
+1239,4878,a,781,1
+1240,4879,a,781,1
+1241,4880,a,781,1
+1242,4881,a,781,1
+1243,4882,a,781,1
+1244,4883,a,781,1
+1245,4884,collaborative editing,782,1
+1246,4884,games with a purpose,783,2
+1247,4884,graph visualization,784,3
+1248,4884,ontology engineering,785,4
+1249,4884,social networking platforms,786,5
+1250,4884,tightly-coupled interfaces,787,6
+1251,4885,hci,788,1
+1252,4885,guideline review,789,2
+1253,4885,model-based,790,3
+1254,4885,usability evaluation,650,4
+1255,4886,scaffolding,791,1
+1256,4886,análise instrumental da aprendizagem,792,2
+1257,4886,interfaces educativas,793,3
+1258,4886,teoria dos campos conceituais,794,4
+1259,4887,free software,795,1
+1260,4887,information architecture,796,2
+1261,4887,participatory design,497,3
+1262,4888,fitts' law,797,1
+1263,4888,elder people,798,2
+1264,4888,human-computer interaction,309,3
+1265,4888,throughput,799,4
+1266,4889,brasil,800,1
+1267,4889,sbtvd,555,2
+1268,4889,interface com o usuário,801,3
+1269,4889,perfil de usuário,802,4
+1270,4889,televisão interativa,803,5
+1271,4890,abdução,804,1
+1272,4890,abductive reasoning,3,2
+1273,4890,previous knowledge,805,3
+1274,4890,semiótica,806,4
+1275,4890,semiotics,572,5
+1276,4890,teorias de ihc,807,6
+1277,4891,business process modeling,808,1
+1278,4891,model-driven engineering,809,2
+1279,4891,requirements engineering,547,3
+1280,4891,user-centered design,663,4
+1281,4892,design patterns,168,1
+1282,4892,e-government,810,2
+1283,4892,task patterns,811,3
+1284,4893,digital interactive tv,186,1
+1285,4893,human computer interaction,812,2
+1286,4893,location-based services,813,3
+1287,4893,mobile applications,435,4
+1288,4893,mobile interaction design,439,5
+1289,4894,digital tv,192,1
+1290,4894,distance learning,767,2
+1291,4894,paper interface,768,3
+1292,4894,usability,648,4
+1293,4895,tags,814,1
+1294,4895,folksonomia,815,2
+1295,4895,recuperação de informações,816,3
+1296,4895,vocabulário,817,4
+1297,4896,collaboration,89,1
+1298,4896,scripting,818,2
+1299,4896,web accessibility,724,3
+1300,4897,embodied conversational agent (eca),819,1
+1301,4897,facial animation,820,2
+1302,4897,non-verbal behavior,821,3
+1303,4897,virtual presenter,822,4
+1304,4898,interaction design,352,1
+1305,4898,mobile device,823,2
+1306,4898,survey,824,3
+1307,4899,nondisclosure agreement,825,1
+1308,4899,recruitment,826,2
+1309,4899,software development process,827,3
+1310,4899,usability tests,657,4
+1311,4900,hci,788,1
+1312,4900,academicenterprise partnership,828,2
+1313,4900,acessibility,829,3
+1314,4900,digital divide,182,4
+1315,4900,illiterate users,830,5
+1316,4900,inteligibility,831,6
+1317,4900,plain language,832,7
+1318,4901,low-fidelity prototyping,833,1
+1319,4901,participatory design,497,2
+1320,4901,requirements,834,3
+1321,4902,dispositivos móveis,835,1
+1322,4902,m-learning,836,2
+1323,4902,redes sociais,837,3
+1324,4903,detecção da direção do olhar,838,1
+1325,4903,interação homem-máquina,839,2
+1326,4903,processamento digital de imagens,840,3
+1327,4904,decision-making,841,1
+1328,4904,e-democracy,842,2
+1329,4904,virtual communities,843,3
+1330,4905,quest3d,844,1
+1331,4905,exposição virtual,845,2
+1332,4905,tipografia,846,3
+1333,4906,interactive fitness,847,1
+1334,4906,interação humano-computador,848,2
+1335,4906,jogo 3d,849,3
+1336,4906,realidade virtual,850,4
+1337,4907,collaborative filtering,851,1
+1338,4907,collective intelligence,852,2
+1339,4907,computer supported cooperative work,853,3
+1340,4907,social networks,593,4
+1341,4908,experiência do usuário,854,1
+1342,4908,modelos,855,2
+1343,4909,x-gov,856,1
+1344,4909,governo eletrônico prova de conceito,857,2
+1345,4909,mídia cruzada,858,3
+1346,4910,hci design human error,859,1
+1347,4910,critical systems,140,2
+1348,4911,automação comercial,860,1
+1349,4911,interface com telas sensíveis ao toque,861,2
+1350,4911,solução de software,862,3
+1351,4912,talkpc,863,1
+1352,4912,talktv,864,2
+1353,4912,communications,865,3
+1354,4912,internet,388,4
+1355,4912,software,866,5
+1356,4913,a,781,1
+1357,4914,hdtv e tv interativa,867,1
+1358,4914,javatv,868,2
+1359,4914,sbtvd,555,3
+1360,4914,tv digital,869,4
+1361,4914,tvmark,870,5
+1362,4914,benchmarking,871,6
+1363,4914,embedded systems,872,7
+1364,4914,interactive digital tv,362,8
+1365,4915,a 3 tv,873,1
+1366,4915,e interface de usuário,874,2
+1367,4915,social tv,875,3
+1368,4915,web 2.0,876,4
+1369,4916,dispositivos móveis,835,1
+1370,4916,filtragem colaborativa,877,2
+1371,4916,m-commerce,878,3
+1372,4917,a,781,1
+1373,4918,métodos qualitativos,879,1
+1374,4918,metodologia científica,880,2
+1375,4918,teorias de ihc,807,3
+1376,4919,hci,788,1
+1377,4919,social software,595,2
+1378,4919,social web,596,3
+1379,4919,web 2.0,876,4
+1380,4920,acessibilidade,881,1
+1381,4920,inclusão digital,882,2
+1382,4920,inteligibilidade,883,3
+1383,4920,usabilidade,884,4
+1384,4921,hci in brazil,885,1
+1385,4921,challenges,886,2
+1386,4921,community,887,3
+1387,4921,history,888,4
+1388,4921,research,889,5
+1389,4922,interação humano computador,890,1
+1390,4922,validação,891,2
+1391,4922,verificação,892,3
+1392,4923,flexible systems,259,1
+1393,4923,norms,482,2
+1394,4923,participatory design,497,3
+1395,4923,tailoring,622,4
+1396,4923,user interface design,672,5
+1397,4924,hci 2010,893,1
+1398,4924,evaluation,241,2
+1399,4924,inspection,336,3
+1400,4924,usability,648,4
+1401,4924,web mobile,894,5
+1402,4925,a,781,1
+1403,4926,akr,895,1
+1404,4926,emotionml,896,2
+1405,4926,affective computing,23,3
+1406,4926,emotion,223,4
+1407,4927,cerebral palsy,76,1
+1408,4927,computer assisted therapy,897,2
+1409,4927,user centered project,898,3
+1410,4928,document clustering,899,1
+1411,4928,information landscapes,900,2
+1412,4928,information visualization,332,3
+1413,4928,multi-dimensional scaling,901,4
+1414,4928,visual analytics,902,5
+1415,4929,cloud computing,903,1
+1416,4929,crossmedia,904,2
+1417,4929,human-cloud interaction,905,3
+1418,4929,interaction clouds,906,4
+1419,4930,mex,907,1
+1420,4930,agile,908,2
+1421,4930,interaction design,352,3
+1422,4931,hci teaching,909,1
+1423,4931,collaborative environments,910,2
+1424,4931,evaluation methods,244,3
+1425,4931,semiotic inspection,911,4
+1426,4932,a,781,1
+1427,4933,a,781,1
+1428,4934,moodle,912,1
+1429,4934,communicability evaluation,102,2
+1430,4934,distant education,913,3
+1431,4934,usability evaluation,650,4
+1432,4935,a,781,1
+1433,4936,agile,908,1
+1434,4936,product development,914,2
+1435,4936,usability,648,3
+1436,4936,user story mapping,915,4
+1437,4937,a,781,1
+1438,4938,a,781,1
+1439,4939,manas,416,1
+1440,4939,collaborative systems,95,2
+1441,4939,semiotic engineering,568,3
+1442,4939,social impacts,916,4
+1443,4940,hci,788,1
+1444,4940,interaction modeling,357,2
+1445,4940,model-based user interface development,448,3
+1446,4940,multimodal interaction,917,4
+1447,4941,accessibility,7,1
+1448,4941,e-government,810,2
+1449,4941,usability,648,3
+1450,4941,visually impaired,918,4
+1451,4942,digital libraries,188,1
+1452,4942,university,919,2
+1453,4942,user centered design,920,3
+1454,4942,web accessibility,724,4
+1455,4943,a,781,1
+1456,4944,a,781,1
+1457,4945,descrições narrativas,921,1
+1458,4945,engenharia semiótica,922,2
+1459,4945,modelagem de interface,923,3
+1460,4946,e-book,924,1
+1461,4946,e-book reader,925,2
+1462,4946,human-machine interaction,926,3
+1463,4946,information architecture,796,4
+1464,4946,interfaces,385,5
+1465,4946,mobile devices,437,6
+1466,4947,evaluation technique,927,1
+1467,4947,usability,648,2
+1468,4947,web mobile applications,928,3
+1469,4948,a,781,1
+1470,4949,web social,929,1
+1471,4949,ihc'10,930,2
+1472,4949,software social,931,3
+1473,4950,hci curriculum,932,1
+1474,4950,education in hci,933,2
+1475,4950,pedagogic approaches for teaching hci,934,3
+1476,4951,avaliação,935,1
+1477,4951,contexto,936,2
+1478,4951,interação,937,3
+1479,4951,linguística,938,4
+1480,4951,redes sociais,837,5
+1481,4952,mobile,434,1
+1482,4952,problem-based learning,939,2
+1483,4952,user-centered design,663,3
+1484,4952,widgets,940,4
+1485,4953,aprendizaje colaborativo,941,1
+1486,4953,grupos de trabajo distribuidos,942,2
+1487,4953,interface humano computador,943,3
+1488,4953,usabilidad,944,4
+1489,4954,ciclo de vida de usabilidade,945,1
+1490,4954,interação humano computador,890,2
+1491,4954,jogos,946,3
+1492,4955,information systems,947,1
+1493,4955,usability,648,2
+1494,4955,web,722,3
+1495,4956,colaboração,948,1
+1496,4956,inovação,949,2
+1497,4956,negócios,950,3
+1498,4956,personas,511,4
+1499,4957,usability evaluation,650,1
+1500,4957,usability heuristics,951,2
+1501,4957,virtual worlds,952,3
+1502,4958,engenharia semiótica,922,1
+1503,4958,expressões de comunicabilidade,953,2
+1504,4958,sistemas de ajuda em pares,954,3
+1505,4959,early prototyping,955,1
+1506,4959,pen-based interaction,956,2
+1507,4959,sketching user interface behavior,957,3
+1508,4959,user interface sketching,958,4
+1509,4960,digital games,183,1
+1510,4960,heuristic evaluation,302,2
+1511,4960,playability,516,3
+1512,4961,dispositives móveis,959,1
+1513,4961,métodos de avaliação,960,2
+1514,4961,revisão sistemática,961,3
+1515,4961,telefones celulares,962,4
+1516,4961,usabilidade,884,5
+1517,4962,accessibility,7,1
+1518,4962,assistive technology,963,2
+1519,4962,screen reader,964,3
+1520,4962,touch screen,965,4
+1521,4962,visually impaired,918,5
+1522,4963,hci,788,1
+1523,4963,hand-gesture recognition,966,2
+1524,4963,interface navigation,967,3
+1525,4963,model-driven design of user interfaces (mddui),968,4
+1526,4964,interaction model,356,1
+1527,4964,real-time translator,969,2
+1528,4964,short-term conversation,970,3
+1529,4965,deaf,153,1
+1530,4965,online communities,487,2
+1531,4965,semiotic engineering,568,3
+1532,4965,sociability,588,4
+1533,4965,social networks,593,5
+1534,4966,accessibility,7,1
+1535,4966,devices,971,2
+1536,4966,human computer interaction,812,3
+1537,4966,video games,972,4
+1538,4967,accessibility,7,1
+1539,4967,accessibility guidelines,973,2
+1540,4967,content analysis,128,3
+1541,4967,electronic games,974,4
+1542,4967,people with special needs,505,5
+1543,4968,accessibility,7,1
+1544,4968,accessibility evaluation,8,2
+1545,4968,software evolution,975,3
+1546,4969,acessibilidade,881,1
+1547,4969,adultos de meia-idade,976,2
+1548,4969,idosos,977,3
+1549,4969,web,722,4
+1550,4970,a,781,1
+1551,4971,classification,978,1
+1552,4971,collaborative authoring,979,2
+1553,4971,content production and consumption,980,3
+1554,4971,context-awareness,981,4
+1555,4971,real-time annotation,982,5
+1556,4972,inspection tool,983,1
+1557,4972,usability evaluation,650,2
+1558,4973,communicability evaluation method,103,1
+1559,4973,tagging,984,2
+1560,4973,web tool,985,3
+1561,4974,accessibility,7,1
+1562,4974,devices,971,2
+1563,4974,human computer interaction,812,3
+1564,4974,video games,972,4
+1565,4975,gesture recognition,278,1
+1566,4975,innovation,334,2
+1567,4975,interactive surfaces,367,3
+1568,4975,multi-touch interfaces,986,4
+1569,4976,a,781,1
+1570,4977,omcs-br project,987,1
+1571,4977,contextualized applications,988,2
+1572,4977,cultural knowledge,989,3
+1573,4977,multimedia,461,4
+1574,4978,a,781,1
+1575,4979,a,781,1
+1576,5063,a,781,1
+1577,4980,hci curriculum,932,1
+1578,4980,education in hci,933,2
+1579,4980,pedagogic approaches for teaching hci,934,3
+1580,4981,a,781,1
+1581,4982,a,781,1
+1582,4983,arduino,40,1
+1583,4983,innovation process,335,2
+1584,4983,interaction design,352,3
+1585,4983,prototyping,528,4
+1586,4983,user evaluation,990,5
+1587,4984,a,781,1
+1588,4985,a,781,1
+1589,4986,agile methods,991,1
+1590,4986,integration,343,2
+1591,4986,user-centered design,663,3
+1592,4987,design,160,1
+1593,4987,evaluation,241,2
+1594,4987,students' competition,992,3
+1595,4988,accessibility,7,1
+1596,4988,blind students,993,2
+1597,4988,diagrams,994,3
+1598,4988,inclusion,995,4
+1599,4989,accessibility,7,1
+1600,4989,communicability,101,2
+1601,4989,digital games,183,3
+1602,4989,semiotic engineering,568,4
+1603,4989,semiotic inspection method,570,5
+1604,4989,sound signs,996,6
+1605,4990,collaboration,89,1
+1606,4990,content management,997,2
+1607,4990,social networking,998,3
+1608,4991,facebook,256,1
+1609,4991,privacy,522,2
+1610,4991,social network sites,999,3
+1611,4991,user experience,666,4
+1612,4992,cultural translation,1000,1
+1613,4992,homophily,1001,2
+1614,4992,recommender systems,542,3
+1615,4992,social network,1002,4
+1616,4993,facebook,256,1
+1617,4993,metaphors,431,2
+1618,4993,social networks,593,3
+1619,4993,use,1003,4
+1620,4994,culture,147,1
+1621,4994,eco-feedback technology,204,2
+1622,4994,motivation,454,3
+1623,4995,educational games,1004,1
+1624,4995,end-user-programming,1005,2
+1625,4995,participatory design,497,3
+1626,4996,hci education,295,1
+1627,4996,abstraction,4,2
+1628,4996,communicability evaluation method,103,3
+1629,4996,computer science education,117,4
+1630,4996,semiotic engineering,568,5
+1631,4996,semiotic inspection method,570,6
+1632,4996,systematic interpretation,616,7
+1633,4996,wide perspective,1006,8
+1634,4997,hci curriculum,932,1
+1635,4997,hci education,295,2
+1636,4997,teaching experiences,1007,3
+1637,4998,3d navigation,2,1
+1638,4998,design research,172,2
+1639,4998,interaction,349,3
+1640,4998,large displays,402,4
+1641,4998,usability,648,5
+1642,4999,assessment,42,1
+1643,4999,communicability,101,2
+1644,4999,evaluation method,1008,3
+1645,4999,semiotic engineering,568,4
+1646,4999,semiotic inspection method,570,5
+1647,5000,collaborative systems evaluation,1009,1
+1648,5000,cooperative system evaluation,1010,2
+1649,5000,evaluation,241,3
+1650,5000,groupware,1011,4
+1651,5001,game users,1012,1
+1652,5001,heuristic evaluation,302,2
+1653,5001,virtual worlds,952,3
+1654,5002,a,781,1
+1655,5003,participatory design,497,1
+1656,5003,remote sensing applications,1013,2
+1657,5003,user centered design,920,3
+1658,5003,user experiences,1014,4
+1659,5004,interação humano-computador (ihc),1015,1
+1660,5004,métodos ágeis,1016,2
+1661,5004,técnicas de modelagem,1017,3
+1662,5005,case,1018,1
+1663,5005,conceito de house,1019,2
+1664,5005,desenvolvimento,1020,3
+1665,5005,design,160,4
+1666,5005,experiência do usuário,854,5
+1667,5005,interação,937,6
+1668,5005,interface do usuário,1021,7
+1669,5005,métodos ágeis,1016,8
+1670,5005,processos,1022,9
+1671,5006,a,781,1
+1672,5007,hci design,293,1
+1673,5007,computer science unplugged,1023,2
+1674,5007,women in it,1024,3
+1675,5008,sociability,588,1
+1676,5008,virtual communities,843,2
+1677,5008,virtual learning environments,705,3
+1678,5009,foursquare,263,1
+1679,5009,gamification,268,2
+1680,5009,geolocation,1025,3
+1681,5009,users' behavior,1026,4
+1682,5010,inspection tool,983,1
+1683,5010,learning objects,1027,2
+1684,5010,quality in use,1028,3
+1685,5011,comunicabilidade,1029,1
+1686,5011,engenharia semiótica,922,2
+1687,5011,ferramenta de avaliação,1030,3
+1688,5011,método de inspeção semiótica,1031,4
+1689,5012,mobile phone,1032,1
+1690,5012,smartphone,1033,2
+1691,5012,usability heuristic,1034,3
+1692,5012,usability principle,1035,4
+1693,5013,usixml,1036,1
+1694,5013,human-computer interaction,309,2
+1695,5013,interface modeling,1037,3
+1696,5013,interface prototypes generation,1038,4
+1697,5013,project guidelines,1039,5
+1698,5013,the bridge,1040,6
+1699,5014,big data,1041,1
+1700,5014,data journalism,1042,2
+1701,5014,data visualization,1043,3
+1702,5015,collaboration,89,1
+1703,5015,interaction,349,2
+1704,5015,medical informatics,1044,3
+1705,5016,hci education,295,1
+1706,5016,curriculum,149,2
+1707,5017,python,1045,1
+1708,5017,clustering,1046,2
+1709,5017,personas,511,3
+1710,5017,user modeling,679,4
+1711,5018,human-computer interaction,309,1
+1712,5018,scientific research,1047,2
+1713,5018,systematic review,1048,3
+1714,5019,human-computer interaction,309,1
+1715,5019,web application,1049,2
+1716,5019,web engineering,731,3
+1717,5020,framework,1050,1
+1718,5020,tutorial,1051,2
+1719,5020,voice user interface,1052,3
+1720,5021,br-chi,1053,1
+1721,5021,brazilian computing society,1054,2
+1722,5021,hci in brazil,885,3
+1723,5021,community,887,4
+1724,5022,interação humano-computador,848,1
+1725,5022,mercado,1055,2
+1726,5022,profissão,1056,3
+1727,5022,trabalho,1057,4
+1728,5023,facebook,256,1
+1729,5023,avaliação de ihc,1058,2
+1730,5023,privacidade,1059,3
+1731,5023,redes sociais,837,4
+1732,5024,facebook,256,1
+1733,5024,controle de privacidade,1060,2
+1734,5024,fotos pessoais,1061,3
+1735,5024,interface,375,4
+1736,5024,privacidade,1059,5
+1737,5024,rede social,1062,6
+1738,5025,avaliação de comunicabilidade,1063,1
+1739,5025,facebook,256,2
+1740,5025,privacidade,1059,3
+1741,5026,facebook,256,1
+1742,5026,communicability evaluation,102,2
+1743,5026,privacy settings,1064,3
+1744,5026,semiotic inspection,911,4
+1745,5026,social networks,593,5
+1746,5027,facebook,256,1
+1747,5027,accessibility,7,2
+1748,5027,assessment methods,1065,3
+1749,5027,emotional factors,1066,4
+1750,5027,privacy,522,5
+1751,5027,usability,648,6
+1752,5028,olpc,485,1
+1753,5028,affect and emotions in design,21,2
+1754,5028,affectibility,22,3
+1755,5028,design for,1067,4
+1756,5028,learning technology,404,5
+1757,5028,with and by children,1068,6
+1758,5029,aesthetic experience,19,1
+1759,5029,authorship,1069,2
+1760,5029,generative literature,272,3
+1761,5029,poetry,1070,4
+1762,5030,a,781,1
+1763,5031,cream,1071,1
+1764,5031,therp,1072,2
+1765,5031,wop,1073,3
+1766,5031,confiabilidade,1074,4
+1767,5031,confiabilidade humana,1075,5
+1768,5031,embarcações,1076,6
+1769,5031,erro humano,1077,7
+1770,5032,emoções,1078,1
+1771,5032,interação humano-computador,848,2
+1772,5032,revisão sistemática,961,3
+1773,5032,sensores,1079,4
+1774,5033,haptic visualization,1080,1
+1775,5033,multivariate data,1081,2
+1776,5033,scatter plot,1082,3
+1777,5034,assistive technologies,44,1
+1778,5034,mobile phone,1032,2
+1779,5034,visual impaired people,1083,3
+1780,5035,mobile web framework,1084,1
+1781,5035,responsible web design,1085,2
+1782,5036,voiceover,1086,1
+1783,5036,accessibility,7,2
+1784,5036,blindness,60,3
+1785,5036,shared-message boards,1087,4
+1786,5036,touch screen,965,5
+1787,5036,visual disability,1088,6
+1788,5037,digital tv,192,1
+1789,5037,ginga,1089,2
+1790,5037,interface design,378,3
+1791,5037,media convergence,1090,4
+1792,5038,gamification,268,1
+1793,5038,interaction,349,2
+1794,5038,social network,1002,3
+1795,5039,nui,1091,1
+1796,5039,collaborative work,1092,2
+1797,5039,geographical information system,1093,3
+1798,5040,json,1094,1
+1799,5040,augmented reality browser,1095,2
+1800,5040,representation model,1096,3
+1801,5041,ipad application,1097,1
+1802,5041,mobile augmented reality,1098,2
+1803,5041,perception,1099,3
+1804,5041,recognition of 3d models,1100,4
+1805,5041,tangible augmented reality,1101,5
+1806,5042,customização,1102,1
+1807,5042,customization,1103,2
+1808,5042,educational games,1004,3
+1809,5042,jogos educativos,1104,4
+1810,5042,meta-design,1105,5
+1811,5043,aplicações web,1106,1
+1812,5043,engenharia web,1107,2
+1813,5043,interação humano-computador,848,3
+1814,5044,incident,1108,1
+1815,5044,service delivery,1109,2
+1816,5044,summarization,1110,3
+1817,5044,visualization,712,4
+1818,5045,design,160,1
+1819,5045,human factors,306,2
+1820,5045,verification,695,3
+1821,5046,cross-platform development,1111,1
+1822,5046,mobile applications,435,2
+1823,5046,usability,648,3
+1824,5047,dtmf,1112,1
+1825,5047,ura,1113,2
+1826,5047,observação direta,1114,3
+1827,5047,reconhecimento de voz,1115,4
+1828,5048,colaboração,948,1
+1829,5048,desenvolvimento centrado no usuário,1116,2
+1830,5048,fatores humanos,1117,3
+1831,5049,drag-and-drop,1118,1
+1832,5049,multimedia content sharing,1119,2
+1833,5049,natural user interfaces,474,3
+1834,5050,acessibilidade,881,1
+1835,5050,blico,1120,2
+1836,5050,concurso pú trabalho,1121,3
+1837,5050,websites,1122,4
+1838,5051,educational software,207,1
+1839,5051,mobile devices,437,2
+1840,5051,portability,1123,3
+1841,5051,usability,648,4
+1842,5052,luto,1124,1
+1843,5052,memorial digital,1125,2
+1844,5052,sensações dos usuários,1126,3
+1845,5052,web social,929,4
+1846,5053,crisis management,1127,1
+1847,5053,mobile devices,437,2
+1848,5053,multimodal interface,1128,3
+1849,5054,health,1129,1
+1850,5054,interaction,349,2
+1851,5054,interfaces,385,3
+1852,5054,learning objects,1027,4
+1853,5054,post-wimp,1130,5
+1854,5055,e-learning,203,1
+1855,5055,information visualization,332,2
+1856,5055,web analytics,1131,3
+1857,5056,design de jogos,1132,1
+1858,5056,ensino de medicina,1133,2
+1859,5056,simulação,1134,3
+1860,5057,communicability,101,1
+1861,5057,semiotic engineering,568,2
+1862,5057,semiotic inspection method,570,3
+1863,5057,web tool,985,4
+1864,5058,framework,1050,1
+1865,5058,sensors,1135,2
+1866,5058,gesture recognition,278,3
+1867,5058,natural interaction,473,4
+1868,5059,interface multimodal,1136,1
+1869,5059,tecnologia assistiva,1137,2
+1870,5059,usabilidade,884,3
+1871,5060,ã desenvolvimento sustentá interaç o (tic),1138,1
+1872,5060,o e comunicaç o humano-computador (ihc),1139,2
+1873,5060,o sistemá revisã sustentabilidade,1140,3
+1874,5060,technologia da informaç tica,1141,4
+1875,5060,vel,1142,5
+1876,5061,computer mediated communication,1143,1
+1877,5061,language practices,1144,2
+1878,5061,mobile devices,437,3
+1879,5061,usability,648,4
+1880,5062,hci curriculum,932,1
+1881,5062,education in hci,933,2
+1882,5062,pedagogic approaches for teaching hci,934,3
+1883,4979,a,781,1
+1884,5063,a,781,1
+1885,5064,acessibilidade web,1145,1
+1886,5064,avaliação de acessibilidade,1146,2
+1887,5064,testes com usuários com deficiência,1147,3
+1888,5065,ihc,1148,1
+1889,5065,framework,1050,2
+1890,5065,gesture recognition,278,3
+1891,5065,natural interaction,473,4
+1892,5065,sensors,1135,5
+1893,5066,engenharia semiótica,922,1
+1894,5066,métodos,1149,2
+1895,5066,ontologia,1150,3
+1896,5066,teoria de ihc,1151,4
+1897,5067,accessibility criteria,1152,1
+1898,5067,content management systems,129,2
+1899,5067,quantitative study,536,3
+1900,5067,web accessibility,724,4
+1901,5068,a,781,1
+1902,5069,end-user programming,231,1
+1903,5069,self-expression,563,2
+1904,5069,semiotic engineering,568,3
+1905,5069,virtual learning environments,705,4
+1906,5070,english as second language,234,1
+1907,5070,inspection method,1153,2
+1908,5070,placement test,514,3
+1909,5070,semiotic,1154,4
+1910,5071,communication,106,1
+1911,5071,marketing and website,1155,2
+1912,5072,cultural differences,1156,1
+1913,5072,foursquare,263,2
+1914,5072,online social networks,490,3
+1915,5073,automated annotation,1157,1
+1916,5073,climate change,1158,2
+1917,5073,content recommendations,1159,3
+1918,5073,document editor,1160,4
+1919,5073,knowledge co-creation,1161,5
+1920,5074,human computer interaction,812,1
+1921,5074,makeup simulation,1162,2
+1922,5075,activity diagrams,1163,1
+1923,5075,design,160,2
+1924,5075,reading technique,1164,3
+1925,5075,usability,648,4
+1926,5076,educational software,207,1
+1927,5076,learning process,1165,2
+1928,5076,objective evaluation,1166,3
+1929,5076,teaching,1167,4
+1930,5077,accessibility,7,1
+1931,5077,eyetracking,1168,2
+1932,5077,human computer-interaction,1169,3
+1933,5077,low-literate users,1170,4
+1934,5077,web interface,732,5
+1935,5078,accessibility,7,1
+1936,5078,deaf,153,2
+1937,5078,games,267,3
+1938,5078,guidelines,284,4
+1939,5078,recommendations,541,5
+1940,5079,gameficaçã,1171,1
+1941,5079,gamification,268,2
+1942,5079,mobilidade,1172,3
+1943,5079,mobility,763,4
+1944,5079,padrões de interface,1173,5
+1945,5079,standard interfaces,1174,6
+1946,5080,measurement,1175,1
+1947,5080,systematic review,1048,2
+1948,5080,user experience,666,3
+1949,5081,hci for mobile devices,1176,1
+1950,5081,design and evaluation of games,1177,2
+1951,5081,usability of interfaces for elderly,1178,3
+1952,5082,personalization,1179,1
+1953,5082,smartphones,587,2
+1954,5082,usage mining,1180,3
+1955,5083,automatic speech recognition,1181,1
+1956,5083,children speech recognition,1182,2
+1957,5083,speaker normalization,1183,3
+1958,5083,vocal tract length normalization,1184,4
+1959,5084,kinect,398,1
+1960,5084,collaborative music expression,1185,2
+1961,5084,exploration,1186,3
+1962,5084,tangible interface,1187,4
+1963,5085,3d user interaction,1188,1
+1964,5085,cybersickness,1189,2
+1965,5085,immersive systems,1190,3
+1966,5085,oculus rift,1191,4
+1967,5085,virtual reality,706,5
+1968,5086,data mining,152,1
+1969,5086,evaluation,241,2
+1970,5086,knowledge discovery,1192,3
+1971,5086,web usability,1193,4
+1972,5087,frameworks,265,1
+1973,5087,information visualization,332,2
+1974,5087,qualitative research,533,3
+1975,5087,quantitative research,1194,4
+1976,5088,classification of visualization techniques,1195,1
+1977,5088,context-based recommender system,1196,2
+1978,5088,information visualization,332,3
+1979,5089,situation awareness,1197,1
+1980,5089,uncertainty visualization,1198,2
+1981,5090,ambient assisted living,1199,1
+1982,5090,collaborative systems,95,2
+1983,5090,collective intelligence,852,3
+1984,5090,internet of things,1200,4
+1985,5090,smart cities,1201,5
+1986,5090,smart light,1202,6
+1987,5091,human-computer interaction,309,1
+1988,5091,research,889,2
+1989,5091,sustainability,1203,3
+1990,5092,accessibility,7,1
+1991,5092,augmented cognition,1204,2
+1992,5092,digital inclusion,184,3
+1993,5092,gaze interaction,1205,4
+1994,5092,gaze tracking,1206,5
+1995,5092,wearable computing,1207,6
+1996,5093,grandihc,1208,1
+1997,5093,ihc,1148,2
+1998,5093,illiteracy,1209,3
+1999,5093,oral,1210,4
+2000,5093,usability,648,5
+2001,5094,access control,1211,1
+2002,5094,privacy,522,2
+2003,5094,ubiquitous computing,641,3
+2004,5095,human computer interaction,812,1
+2005,5095,ubiquitous computing,641,2
+2006,5095,user experience,666,3
+2007,5096,multimodal interaction,917,1
+2008,5096,social semantic web,1212,2
+2009,5096,ubiquitous computing,641,3
+2010,5096,web of data,1213,4
+2011,5096,web of people,1214,5
+2012,5096,web of things,1215,6
+2013,5097,ux optimization,1216,1
+2014,5097,ubiquity,1217,2
+2015,5097,ubiquity in education,1218,3
+2016,5098,death,1219,1
+2017,5098,post-mortem digital legacy,1220,2
+2018,5098,posthumous interaction,520,3
+2019,5099,ethics,1221,1
+2020,5099,human values,1222,2
+2021,5099,responsibility,1223,3
+2022,5099,systems design,1224,4
+2023,5099,user auditor,1225,5
+2024,5100,grandihc-br,1226,1
+2025,5100,design,160,2
+2026,5100,ethics,1221,3
+2027,5100,grand challenge,1227,4
+2028,5100,human values,1222,5
+2029,5101,hci,788,1
+2030,5101,anti-social behavior,1228,2
+2031,5101,human factors,306,3
+2032,5101,social network,1002,4
+2033,5101,user intention semantics,1229,5
+2034,5102,challenge,1230,1
+2035,5102,curriculum,149,2
+2036,5102,education,205,3
+2037,5102,flexibility,257,4
+2038,5102,practice,1231,5
+2039,5103,hci challenges in brazil,1232,1
+2040,5103,hci education in brazil,1233,2
+2041,5104,hci course,1234,1
+2042,5104,ux process,1235,2
+2043,5104,software development,1236,3
+2044,5105,hci,788,1
+2045,5105,culture,147,2
+2046,5105,design,160,3
+2047,5105,grand challenges,280,4
+2048,5105,social,1237,5
+2049,5106,acessibilidade,881,1
+2050,5106,analfabetismo funcional,1238,2
+2051,5106,comunicabilidade,1029,3
+2052,5106,e-gov,1239,4
+2053,5106,método de avaliação de,1240,5
+2054,5106,rastreamento ocular,1241,6
+2055,5107,a,781,1
+2056,5108,engenharia semiótica,922,1
+2057,5108,meta-design,1105,2
+2058,5108,sondas de design,1242,3
+2059,5108,tecnologias de apoio aos transtornos do espectro do autismo,1243,4
+2060,5109,information seeking,1244,1
+2061,5109,busca avançada,1245,2
+2062,5109,pesquisa exploratória,1246,3
+2063,5110,a,781,1
+2064,5111,análise de rede social,1247,1
+2065,5111,análise de sentimento,1248,2
+2066,5111,autoridade cognitiva,1249,3
+2067,5111,recomendação de pessoas,1250,4
+2068,5112,a,781,1
+2069,5113,autismo,1251,1
+2070,5113,design universal,1252,2
+2071,5113,guidelines de interface,1253,3
+2072,5114,a,781,1
+2073,5115,computação,1254,1
+2074,5115,design,160,2
+2075,5115,interação humano-computador,848,3
+2076,5115,mercado,1055,4
+2077,5115,profissão,1056,5
+2078,5115,trabalho,1057,6
+2079,5116,accessibility,7,1
+2080,5116,guidelines,284,2
+2081,5116,process,1255,3
+2082,5117,game design and evaluation,1256,1
+2083,5117,gesture-based interaction,1257,2
+2084,5117,usability for senior citizens,1258,3
+2085,5118,context usability,1259,1
+2086,5118,mobile application,1260,2
+2087,5118,usability,648,3
+2088,5119,touchscreen,1261,1
+2089,5119,accessibility,7,2
+2090,5119,design universal,1252,3
+2091,5119,self-service kiosks,1262,4
+2092,5120,heuristic evaluation,302,1
+2093,5120,older people,1263,2
+2094,5120,usability,648,3
+2095,5120,web application,1049,4
+2096,5121,gesture based interfaces,1264,1
+2097,5121,mobile interfaces,1265,2
+2098,5121,natural user interfaces,474,3
+2099,5122,hci,788,1
+2100,5122,mooc,1266,2
+2101,5122,computers in education,1267,3
+2102,5122,learning analytics,1268,4
+2103,5122,technology enhanced learning,1269,5
+2104,5123,educational game,1270,1
+2105,5123,gestual interface,1271,2
+2106,5124,accessibility inspection,1272,1
+2107,5124,checklist,1273,2
+2108,5124,web accessibility,724,3
+2109,5125,a,781,1
+2110,5126,computer-mediated communication,123,1
+2111,5126,end-user development,230,2
+2112,5126,social participation,1274,3
+2113,5127,libras,407,1
+2114,5127,assistive technology,963,2
+2115,5127,deafness,155,3
+2116,5127,mutism,1275,4
+2117,5127,translator,1276,5
+2118,5128,education,205,1
+2119,5128,interactivity,372,2
+2120,5128,mobile devices,437,3
+2121,5128,mobility,763,4
+2122,5129,a,781,1
+2123,5130,a,781,1
+2124,5131,design da experiência,1277,1
+2125,5131,design da interação,1278,2
+2126,5131,prototipagem,1279,3
+2127,5132,molic,452,1
+2128,5132,design da interação,1278,2
+2129,5132,engenharia semiótica,922,3
+2130,5133,a,781,1
+2131,5134,runkeeper,1280,1
+2132,5134,heuristic evaluation,302,2
+2133,5134,run app,1281,3
+2134,5134,semiotic engineering,568,4
+2135,5135,communicability,101,1
+2136,5135,evaluation methods,244,2
+2137,5135,semiotic engineering,568,3
+2138,5135,smartphones application,1282,4
+2139,5136,cem,1283,1
+2140,5136,hci,788,2
+2141,5136,runkeeper,1280,3
+2142,5136,sim,583,4
+2143,5136,heuristic evaluation,302,5
+2144,5136,smartphone,1033,6
+2145,5137,runkeeper,1280,1
+2146,5137,heuristic inspection,1284,2
+2147,5137,usability,648,3
+2148,5137,users,688,4
+2149,5138,gamificação,1285,1
+2150,5138,prática de atividades físicas,1286,2
+2151,5138,usabilidade,884,3
+2152,5139,a,781,1
+2153,5140,a,781,1
+2154,5141,content analysis,128,1
+2155,5141,empowerment,1287,2
+2156,5141,metaphors,431,3
+2157,5141,user-centered design,663,4
+2158,5142,mobile devices,437,1
+2159,5142,accessibility,7,2
+2160,5142,empirical study,229,3
+2161,5142,gestures,1288,4
+2162,5142,systematic review,1048,5
+2163,5142,touch-screen,1289,6
+2164,5142,visually impaired people,1290,7
+2165,5143,distributed participatory design,1291,1
+2166,5143,groupware,1011,2
+2167,5143,participatory design,497,3
+2168,5143,participatory workshops,1292,4
+2169,5144,accessibility,7,1
+2170,5144,cscw,143,2
+2171,5144,cooperation,1293,3
+2172,5144,wai-aria,1294,4
+2173,5144,web 2.0,876,5
+2174,5144,awareness elements,1295,6
+2175,5145,digital games,183,1
+2176,5145,emotional evaluation,227,2
+2177,5145,smartphones,587,3
+2178,5145,user experience,666,4
+2179,5145,older adults,1296,5
+2180,5146,human-computer interaction,309,1
+2181,5146,internet of things,1200,2
+2182,5146,iot,1297,3
+2183,5146,mobile,434,4
+2184,5146,natural user interfaces,474,5
+2185,5146,ubiquitous computing,641,6
+2186,5146,web of things,1215,7
+2187,5146,wot,1298,8
+2188,5147,user experience measurement,1299,1
+2189,5147,psychophysiological measures,1300,2
+2190,5147,user experience evaluation,1301,3
+2191,5148,cem,1283,1
+2192,5148,comunicability,1302,2
+2193,5148,eud,1303,3
+2194,5148,evaluation,241,4
+2195,5148,sim,583,5
+2196,5148,sidetalk,1304,6
+2197,5149,cognitive walkthrough,1305,1
+2198,5149,heuristic evaluation,302,2
+2199,5149,inspection methods,338,3
+2200,5149,methodology,432,4
+2201,5149,semiotic inspection method,570,5
+2202,5150,model,1306,1
+2203,5150,aesthetics,1307,2
+2204,5150,credibility,1308,3
+2205,5150,culture,147,4
+2206,5150,mobile web,443,5
+2207,5150,usability,648,6
+2208,5151,accessibility,7,1
+2209,5151,whatsapp,737,2
+2210,5151,social networks,593,3
+2211,5151,visual impairment,709,4
+2212,5152,head tracking,1309,1
+2213,5152,multimodal interfaces,463,2
+2214,5152,usability,648,3
+2215,5152,voice commands,1310,4
+2216,5153,collaborative systems,95,1
+2217,5153,daily records,1311,2
+2218,5153,day2day,1312,3
+2219,5153,information visualization,332,4
+2220,5154,5w2h,1313,1
+2221,5154,user-centered gamification,1314,2
+2222,5154,framework,1050,3
+2223,5155,interaction model,356,1
+2224,5155,navigation model,1315,2
+2225,5155,software quality,1316,3
+2226,5155,usability-oriented design,1317,4
+2227,5156,design with older people,1318,1
+2228,5156,older people with dementia,1319,2
+2229,5156,participatory design,497,3
+2230,5157,accessibility evaluation,8,1
+2231,5157,mobile accessibility,1320,2
+2232,5157,smart cities,1201,3
+2233,5158,privacy,522,1
+2234,5158,social network,1002,2
+2235,5158,userś perception,1321,3
+2236,5159,configuration settings,127,1
+2237,5159,digital legacy,187,2
+2238,5159,interaction anticipation,350,3
+2239,5159,semiotic inspection method,570,4
+2240,5159,volitive aspects,1322,5
+2241,5160,bibliometrics,1323,1
+2242,5160,brazilian symposium on human factors in computing systems,1324,2
+2243,5160,references,1325,3
+2244,5161,digital accessibility,1326,1
+2245,5161,hci,788,2
+2246,5161,inclusive technology,1327,3
+2247,5161,systematic review,1048,4
+2248,5162,brazilian hci challenges,1328,1
+2249,5162,grandihc-br,1226,2
+2250,5162,hci topics,1329,3
+2251,5162,ihc brasil,1330,4
+2252,5163,configuration,1331,1
+2253,5163,anticipation,1332,2
+2254,5163,collaborative systems,95,3
+2255,5163,impact over time,322,4
+2256,5163,semiotic inspection method,570,5
+2257,5164,heatmap explorer,1333,1
+2258,5164,eye gaze visualization,1334,2
+2259,5164,information visualization,332,3
+2260,5164,user interface evaluation,675,4
+2261,5165,memorials,1335,1
+2262,5165,digital memorials,1336,2
+2263,5165,multicultural systems,1337,3
+2264,5165,semiotics,572,4
+2265,5165,tombs,1338,5
+2266,5165,tombstones,1339,6
+2267,5166,aplicativos móveis,1340,1
+2268,5166,diretrizes de privacidade,1341,2
+2269,5166,política de privacidade,1342,3
+2270,5167,affectibility,22,1
+2271,5167,design with children,1343,2
+2272,5167,emotional design,1344,3
+2273,5167,accessibility,7,4
+2274,5167,vision impaired,1345,5
+2275,5168,interaction history,1346,1
+2276,5168,history visualization,1347,2
+2277,5168,log,1348,3
+2278,5168,narrative,471,4
+2279,5168,visual analytics,902,5
+2280,5169,accessibility,7,1
+2281,5169,assisted living,1349,2
+2282,5169,smart home,1350,3
+2283,5169,visual disabilities,1351,4
+2284,5170,adaptation of user interface,1352,1
+2285,5170,multimodal interfaces,463,2
+2286,5170,web mobile,894,3
+2287,5170,framework front-end,1353,4
+2288,5171,cloud computing,903,1
+2289,5171,communicability analysis,1354,2
+2290,5171,communicability evaluation,102,3
+2291,5171,platform as a service environments,1355,4
+2292,5171,semiotic engineering,568,5
+2293,5172,co-design,1356,1
+2294,5172,modeling language,449,2
+2295,5172,participatory design,497,3
+2296,5172,therapeutic application,1357,4
+2297,5172,therapeutic game,1358,5
+2298,5173,human-computer interaction,309,1
+2299,5173,computing in education,1359,2
+2300,5173,cultural aspects in hci,1360,3
+2301,5173,participatory design,497,4
+2302,5173,school culture,1361,5
+2303,5174,large-scale,1362,1
+2304,5174,data mobility,1363,2
+2305,5174,mobile application,1260,3
+2306,5174,session variable,1364,4
+2307,5174,user behavior,689,5
+2308,5174,user profile,683,6
+2309,5175,data visualization,1043,1
+2310,5175,human-computer interaction,309,2
+2311,5175,social media data analysis,1365,3
+2312,5176,image-sharing,1366,1
+2313,5176,recommendation,1367,2
+2314,5176,self-expression,563,3
+2315,5176,semiotic,1154,4
+2316,5176,tagging,984,5
+2317,5176,user modeling,679,6
+2318,5177,evaluation,241,1
+2319,5177,game,1368,2
+2320,5177,gestural interaction,1369,3
+2321,5177,usability,648,4
+2322,5178,hci waves,1370,1
+2323,5178,philosophy of science,1371,2
+2324,5178,research paradigms,1372,3
+2325,5179,hci,788,1
+2326,5179,non-neutrality of technology,1373,2
+2327,5179,sts,1374,3
+2328,5179,technological determinism,1375,4
+2329,5180,facebook,256,1
+2330,5180,persuasive technology,1376,2
+2331,5180,social networks,593,3
+2332,5181,assistive technologies,44,1
+2333,5181,collaborative systems,95,2
+2334,5181,deaf education,1377,3
+2335,5181,human-computer interaction,309,4
+2336,5182,interacting with new devices,1378,1
+2337,5182,naïve bayes classifier,1379,2
+2338,5182,smartwatch,1380,3
+2339,5182,text input,1381,4
+2340,5183,ivprog,1382,1
+2341,5183,polifacets,1383,2
+2342,5183,computational thinking acquisition,1384,3
+2343,5183,facets,1385,4
+2344,5183,metacommunication,1386,5
+2345,5184,assistive technology,963,1
+2346,5184,deaf users,1387,2
+2347,5184,self-report instrument,1388,3
+2348,5185,accessiblity,1389,1
+2349,5185,human factors,306,2
+2350,5185,human information processing,1390,3
+2351,5186,modeling privacy,1391,1
+2352,5186,online social networks,490,2
+2353,5186,privacy,522,3
+2354,5186,privacy design model,1392,4
+2355,5186,semiotic inspection method,570,5
+2356,5187,recommendations,541,1
+2357,5187,ubiquitous applications,1393,2
+2358,5187,usability testing,1394,3
+2359,5188,design,160,1
+2360,5188,simulation,585,2
+2361,5188,smart kitchen,1395,3
+2362,5188,wizard of oz,1396,4
+2363,5189,coproduction,1397,1
+2364,5189,interviews,390,2
+2365,5189,mobile application project,1398,3
+2366,5190,spotify,1399,1
+2367,5190,textual evaluation,1400,2
+2368,5190,usability,648,3
+2369,5190,user experience,666,4
+2370,5191,big data,1041,1
+2371,5191,huma values,1401,2
+2372,5191,human-computer interacions,1402,3
+2373,5192,curriculum,149,1
+2374,5192,ensino de ciência da computação,1403,2
+2375,5192,ensino de interação humano-computador,1404,3
+2376,5193,academic search,1405,1
+2377,5193,sim,583,2
+2378,5193,semiotic engineering,568,3
+2379,5194,grand challenges,280,1
+2380,5194,linkedin,1406,2
+2381,5194,researchgate,1407,3
+2382,5194,social networks,593,4
+2383,5194,information disclosure,328,5
+2384,5195,brazilian community,1408,1
+2385,5195,computer science,1409,2
+2386,5195,perceptions,1410,3
+2387,5195,sustainability,1203,4
+2388,5196,a,781,1
+2389,5197,design for autism,1411,1
+2390,5197,inclusive design,323,2
+2391,5197,peer-to-peer interaction,1412,3
+2392,5198,interaction log analysis,1413,1
+2393,5198,accessibility,7,2
+2394,5198,client-side events,1414,3
+2395,5198,task deviation,1415,4
+2396,5198,task modeling,764,5
+2397,5198,usability,648,6
+2398,5198,usage logging,1416,7
+2399,5198,usage modeling,1417,8
+2400,5199,automated assessment,1418,1
+2401,5199,business modeling,1419,2
+2402,5199,prototyping,528,3
+2403,5199,scenario-based design,1420,4
+2404,5199,task modeling,764,5
+2405,5199,user interface design artifacts,1421,6
+2406,5199,user stories,1422,7
+2407,5200,accessibility,7,1
+2408,5200,avatar animation,1423,2
+2409,5200,deaf community,1424,3
+2410,5200,facial expression,1425,4
+2411,5200,sign languages,1426,5
+2412,5200,virtual interpreter,1427,6
+2413,5201,death,1219,1
+2414,5201,digital legacy,187,2
+2415,5201,digital legacy management systems,1428,3
+2416,5201,posthumous messaging services,1429,4
+2417,5201,semiotic inspection method,570,5
+2418,5202,accessibility,7,1
+2419,5202,digital inclusion,184,2
+2420,5202,empowerment,1287,3
+2421,5202,narrative,471,4
+2422,5202,technical communication,1430,5
+2423,5202,user-centered design,663,6
+2424,5203,movement analysis,1431,1
+2425,5203,older aged adults,1432,2
+2426,5203,tactile interaction,1433,3
+2427,5203,touchscreen,1261,4
+2428,5203,wrist articulation,1434,5
+2429,5204,accessibility,7,1
+2430,5204,mobile applications,435,2
+2431,5204,screen readers,1435,3
+2432,5205,evaluation technologies,1436,1
+2433,5205,software quality,1316,2
+2434,5205,systematic mapping study,1437,3
+2435,5205,user experience,666,4
+2436,5206,bottlenecks identification,1438,1
+2437,5206,quali-quantitative analysis,1439,2
+2438,5206,software development process,827,3
+2439,5206,theory of constraints,1440,4
+2440,5207,actor-network theory,1441,1
+2441,5207,socially aware computing,1442,2
+2442,5207,social software design,1443,3
+2443,5207,sociotechnical networks,1444,4
+2444,5208,floss development,1445,1
+2445,5208,free software,795,2
+2446,5208,hci,788,3
+2447,5208,human-computer interaction,309,4
+2448,5208,interaction design,352,5
+2449,5208,open source software,1446,6
+2450,5209,assistive technology,963,1
+2451,5209,head pose estimation,1447,2
+2452,5209,mean opinion score,1448,3
+2453,5209,universal remote control,1449,4
+2454,5210,user experience,666,1
+2455,5210,design,160,2
+2456,5210,evaluation,241,3
+2457,5210,mobile applications,435,4
+2458,5210,recommendations,541,5
+2459,5211,interaction model,356,1
+2460,5211,interactive systems usability,1450,2
+2461,5211,navigation model,1315,3
+2462,5211,usability-oriented design,1317,4
+2463,5212,nui,1091,1
+2464,5212,e-learning,203,2
+2465,5212,touch interaction,1451,3
+2466,5213,autism,52,1
+2467,5213,accessibility,7,2
+2468,5213,case study,71,3
+2469,5213,educational applications,1452,4
+2470,5214,mobile accessibility,1320,1
+2471,5214,mobile ui design patterns,1453,2
+2472,5214,virtual ethnography,1454,3
+2473,5215,codesign,1455,1
+2474,5215,lgbt,406,2
+2475,5215,critical theory,1456,3
+2476,5215,systematic review,1048,4
+2477,5216,biodiversity information systems,1457,1
+2478,5216,information visualization,332,2
+2479,5216,taxonomy,1458,3
+2480,5217,early morning routines,1459,1
+2481,5217,ethnographic design,1460,2
+2482,5217,everyday life studies,1461,3
+2483,5217,smart homes,1462,4
+2484,5218,affective states,1463,1
+2485,5218,evaluation,241,2
+2486,5218,tangible interfaces,623,3
+2487,5219,community,887,1
+2488,5219,facebook groups,1464,2
+2489,5219,online community,1465,3
+2490,5219,online social network,1466,4
+2491,5219,social network analysis,592,5
+2492,5219,social rules for virtual communities,1467,6
+2493,5219,virtual community,1468,7
+2494,5220,culture,147,1
+2495,5220,death,1219,2
+2496,5220,digital memorials,1336,3
+2497,5220,guide systems,1469,4
+2498,5220,multicultural systems,1337,5
+2499,5220,semiotic engineering,568,6
+2500,5221,information sharing,1470,1
+2501,5221,privacy,522,2
+2502,5221,social network,1002,3
+2503,5221,users' perception,1471,4
+2504,5222,adaptable,1472,1
+2505,5222,adaptive,1473,2
+2506,5222,flexible,1474,3
+2507,5222,interface,375,4
+2508,5222,system,1475,5
+2509,5222,tool,1476,6
+2510,5222,ui,1477,7
+2511,5222,web,722,8
+2512,5223,blockly,1478,1
+2513,5223,facets,1385,2
+2514,5223,javascript,1479,3
+2515,5223,programming novices,1480,4
+2516,5223,semiotic engineering,568,5
+2517,5223,textual programming language,1481,6
+2518,5223,visual programming language,1482,7
+2519,5223,knowledge transfer,1483,8
+2520,5224,activities of daily living,1484,1
+2521,5224,assistive technology,963,2
+2522,5224,games,267,3
+2523,5224,interaction design,352,4
+2524,5224,special education,1485,5
+2525,5225,3d visualization information,1486,1
+2526,5225,eye tracking,1487,2
+2527,5225,head tracking,1309,3
+2528,5225,interaction,349,4
+2529,5226,graphical user interface,1488,1
+2530,5226,head based interaction,1489,2
+2531,5226,human computer interaction,812,3
+2532,5226,natural user interface,1490,4
+2533,5227,kinect,398,1
+2534,5227,medical emergency,1491,2
+2535,5227,natural user interface,1490,3
+2536,5228,cognitive impairment,1492,1
+2537,5228,older adults,1296,2
+2538,5228,participatory design,497,3
+2539,5229,autism,52,1
+2540,5229,autistic children,1493,2
+2541,5229,guidelines,284,3
+2542,5229,interface design,378,4
+2543,5230,digital accessibility,1326,1
+2544,5230,systematic literature review,617,2
+2545,5231,design space,1494,1
+2546,5231,information visualization,332,2
+2547,5231,narrative visualization,1495,3
+2548,5232,communicability,101,1
+2549,5232,signifyi,1496,2
+2550,5232,uml models,1497,3
+2551,5232,use cases,1498,4
+2552,5232,artifacts,1499,5
+2553,5232,semiotic engineering,568,6
+2554,5233,assessment of interactions,1500,1
+2555,5233,gestures,1288,2
+2556,5233,multimodal,1501,3
+2557,5233,natural interaction,473,4
+2558,5233,touches,1502,5
+2559,5233,ubiquitous computing,641,6
+2560,5233,voice,1503,7
+2561,5234,accessibility,7,1
+2562,5234,wcag,1504,2
+2563,5234,elderly people,1505,3
+2564,5234,tablets,1506,4
+2565,5235,bodystorming,1507,1
+2566,5235,computer as a theater,1508,2
+2567,5235,interaction design,352,3
+2568,5235,theater of the oppressed,1509,4
+2569,5236,affectibility,22,1
+2570,5236,hci,788,2
+2571,5236,accessibility,7,3
+2572,5236,enactive systems,1510,4
+2573,5236,information visualization,332,5
+2574,5236,socio-enactive systems,1511,6
+2575,5236,tactile floor,1512,7
+2576,5236,tactile map,1513,8
+2577,5236,universal design,646,9
+2578,5237,chatbot,1514,1
+2579,5237,conversational interfaces,1515,2
+2580,5237,evaluation,241,3
+2581,5237,semiotic engineering,568,4
+2582,5237,semiotic inspection method,570,5
+2583,5238,concerns about privacy,1516,1
+2584,5238,face keeping,1517,2
+2585,5238,information boundary,1518,3
+2586,5238,internet of things,1200,4
+2587,5238,privacy perceptions,1519,5
+2588,5239,facebook,256,1
+2589,5239,online social networks,490,2
+2590,5239,persuasion,1520,3
+2591,5240,brazilian research,1521,1
+2592,5240,brazilian symposium on human factors in computing systems,1324,2
+2593,5240,hci community,1522,3
+2594,5240,visual exploration,708,4
+2595,5241,app store,1523,1
+2596,5241,google maps,1524,2
+2597,5241,textual evaluation,1400,3
+2598,5241,usability,648,4
+2599,5241,user experience,666,5
+2600,5241,waze,1525,6
+2601,5242,goms,1526,1
+2602,5242,web-based mathematical content,1527,2
+2603,5242,accessiblity,1389,3
+2604,5242,keystroke-level model,1528,4
+2605,5242,screen reader,964,5
+2606,5243,evolutionary design,1529,1
+2607,5243,in-the-wild,1530,2
+2608,5243,on-the-fly prototyping,1531,3
+2609,5243,prototyping methods,1532,4
+2610,5243,public displays,529,5
+2611,5243,ubiquitous computing,641,6
+2612,5243,urban computing,1533,7
+2613,5243,urban intervention,1534,8
+2614,5243,urban probes,1535,9
+2615,5244,digital legacy,187,1
+2616,5244,digital memorial,190,2
+2617,5244,facebook,256,3
+2618,5244,social web,596,4
+2619,5245,information visualization,332,1
+2620,5245,understanding user interfaces,1536,2
+2621,5245,user interface models,1537,3
+2622,5246,blogs,1538,1
+2623,5246,recommendation system,1539,2
+2624,5246,quality of experience,1540,3
+2625,5246,sentiment analysis,574,4
+2626,5246,social networks,593,5
+2627,5246,usability assessment,1541,6
+2628,5247,design thinking,1542,1
+2629,5247,human-centered design,290,2
+2630,5247,interaction design,352,3
+2631,5247,methods,1543,4
+2632,5247,theory,1544,5
+2633,5248,digital interfaces,1545,1
+2634,5248,children's literature,1546,2
+2635,5248,design,160,3
+2636,5248,electronic book,1547,4
+2637,5248,multimedia,461,5
+2638,5248,multimodality,465,6
+2639,5249,grandihc,1208,1
+2640,5249,grandihc-br,1226,2
+2641,5249,grand challenges,280,3
+2642,5250,accessibility,7,1
+2643,5250,digital inclusion,184,2
+2644,5250,diversity of users,1548,3
+2645,5251,challenge 3,1549,1
+2646,5251,grandihc-br,1226,2
+2647,5251,multiple devices,1550,3
+2648,5251,tangible,1551,4
+2649,5251,ubiquitous,1552,5
+2650,5252,ethics,1221,1
+2651,5252,grand research challenges,1553,2
+2652,5252,human values,1222,3
+2653,5252,interdisciplinary,1554,4
+2654,5252,post-mortem digital legacy,1220,5
+2655,5253,hci education,295,1
+2656,5253,user experience,666,2
+2657,5253,workforce,1555,3
+2658,5254,affect,20,1
+2659,5254,affective computing,23,2
+2660,5254,emotion,223,3
+2661,5254,human-computer interaction,309,4
+2662,5254,text analysis,1556,5
+2663,5255,accessibility,7,1
+2664,5255,auditory representations,1557,2
+2665,5255,awareness,57,3
+2666,5255,cscw,143,4
+2667,5255,web 2.0,876,5
+2668,5256,preschool children,1558,1
+2669,5256,child-computer interaction,1559,2
+2670,5256,make-believe play,1560,3
+2671,5256,mobile devices,437,4
+2672,5256,self-regulation,1561,5
+2673,5257,airbnb,1562,1
+2674,5257,sharing economy,1563,2
+2675,5257,trust,1564,3
+2676,5258,help,1565,1
+2677,5258,gamers' preferences,1566,2
+2678,5258,games,267,3
+2679,5259,accessibility,7,1
+2680,5259,elderly users,212,2
+2681,5259,intelligent homes,1567,3
+2682,5260,devices,971,1
+2683,5260,sensors,1135,2
+2684,5260,visually impaired,918,3
+2685,5260,evaluation,241,4
+2686,5261,accessibility,7,1
+2687,5261,multimodal,1501,2
+2688,5261,ubiquitous environments,1568,3
+2689,5262,adaptive systems,16,1
+2690,5262,affect detection,1569,2
+2691,5262,affective computing in education,1570,3
+2692,5262,affective hci,1571,4
+2693,5263,psychophysiological measures,1300,1
+2694,5263,emotional evaluation,227,2
+2695,5263,user experience evaluation,1301,3
+2696,5264,accessibility,7,1
+2697,5264,blind person,1572,2
+2698,5264,espeak,1573,3
+2699,5264,raspberry pi,1574,4
+2700,5264,recognition facial,1575,5
+2701,5265,accessibility,7,1
+2702,5265,design for all,162,2
+2703,5265,disabled people,1576,3
+2704,5265,human-computer interaction,309,4
+2705,5265,participatory design,497,5
+2706,5265,visual impairment,709,6
+2707,5266,post-mortem digital legacy,1220,1
+2708,5266,acceptance,1577,2
+2709,5266,artificial intelligence,1578,3
+2710,5266,digital immortality,1579,4
+2711,5266,immortality,1580,5
+2712,5267,architecture-hci-sl,1581,1
+2713,5267,core-sl,1582,2
+2714,5267,libras,407,3
+2715,5267,signwriting,1583,4
+2716,5268,ar sandbox,1584,1
+2717,5268,interface evaluation,381,2
+2718,5268,tangible interface,1187,3
+2719,5268,virtual reality,706,4
+2720,5269,accessibility,7,1
+2721,5269,affectibility,22,2
+2722,5269,digital inclusion,184,3
+2723,5269,social inclusion,591,4
+2724,5269,usability,648,5

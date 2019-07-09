@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="p_name" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>10/02/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="39" label="39">
+        <attvalues>
+          <attvalue for="0" value="Ana Paula Ribeiro" />
+        </attvalues>
+      </node>
+      <node id="63" label="63">
+        <attvalues>
+          <attvalue for="0" value="Antonio Carlos dos Santos" />
+        </attvalues>
+      </node>
+      <node id="76" label="76">
+        <attvalues>
+          <attvalue for="0" value="Beatriz Mascia Daltrini" />
+        </attvalues>
+      </node>
+      <node id="79" label="79">
+        <attvalues>
+          <attvalue for="0" value="Brenner Stefan Gomes Silva" />
+        </attvalues>
+      </node>
+      <node id="97" label="97">
+        <attvalues>
+          <attvalue for="0" value="Carlos Neves Júnior" />
+        </attvalues>
+      </node>
+      <node id="105" label="105">
+        <attvalues>
+          <attvalue for="0" value="Cecília K.V. da Cunha" />
+        </attvalues>
+      </node>
+      <node id="117" label="117">
+        <attvalues>
+          <attvalue for="0" value="Clarisse Sieckenius de Souza" />
+        </attvalues>
+      </node>
+      <node id="125" label="125">
+        <attvalues>
+          <attvalue for="0" value="Claudio Kirner" />
+        </attvalues>
+      </node>
+      <node id="187" label="187">
+        <attvalues>
+          <attvalue for="0" value="Elton José da Silva" />
+        </attvalues>
+      </node>
+      <node id="202" label="202">
+        <attvalues>
+          <attvalue for="0" value="Fábio de Nogueira de Lucena" />
+        </attvalues>
+      </node>
+      <node id="203" label="203">
+        <attvalues>
+          <attvalue for="0" value="Fábio Nemetz" />
+        </attvalues>
+      </node>
+      <node id="214" label="214">
+        <attvalues>
+          <attvalue for="0" value="Fernando Lazzetta" />
+        </attvalues>
+      </node>
+      <node id="217" label="217">
+        <attvalues>
+          <attvalue for="0" value="Flavia Rossler" />
+        </attvalues>
+      </node>
+      <node id="239" label="239">
+        <attvalues>
+          <attvalue for="0" value="Hans K. E. Liesenberg" />
+        </attvalues>
+      </node>
+      <node id="250" label="250">
+        <attvalues>
+          <attvalue for="0" value="Igor Prata Soare" />
+        </attvalues>
+      </node>
+      <node id="252" label="252">
+        <attvalues>
+          <attvalue for="0" value="Isa Haro Martins" />
+        </attvalues>
+      </node>
+      <node id="262" label="262">
+        <attvalues>
+          <attvalue for="0" value="Jair Cavalcanti Leite" />
+        </attvalues>
+      </node>
+      <node id="286" label="286">
+        <attvalues>
+          <attvalue for="0" value="José Geraldo Veloso Moreira" />
+        </attvalues>
+      </node>
+      <node id="289" label="289">
+        <attvalues>
+          <attvalue for="0" value="José Valdeni de Lima" />
+        </attvalues>
+      </node>
+      <node id="341" label="341">
+        <attvalues>
+          <attvalue for="0" value="Lucia Vilela Leite Filgueiras" />
+        </attvalues>
+      </node>
+      <node id="348" label="348">
+        <attvalues>
+          <attvalue for="0" value="Luciano Gamez" />
+        </attvalues>
+      </node>
+      <node id="377" label="377">
+        <attvalues>
+          <attvalue for="0" value="Marcelo Soares Pimenta" />
+        </attvalues>
+      </node>
+      <node id="386" label="386">
+        <attvalues>
+          <attvalue for="0" value="Marco Antônio Alba Winckler" />
+        </attvalues>
+      </node>
+      <node id="399" label="399">
+        <attvalues>
+          <attvalue for="0" value="Maria Cecília C. Baranauskas" />
+        </attvalues>
+      </node>
+      <node id="405" label="405">
+        <attvalues>
+          <attvalue for="0" value="Mário Cesar Silveira" />
+        </attvalues>
+      </node>
+      <node id="437" label="437">
+        <attvalues>
+          <attvalue for="0" value="Osvaldo Luiz de Oliveira" />
+        </attvalues>
+      </node>
+      <node id="469" label="469">
+        <attvalues>
+          <attvalue for="0" value="Raquel Oliveira Prates" />
+        </attvalues>
+      </node>
+      <node id="479" label="479">
+        <attvalues>
+          <attvalue for="0" value="Ricardo Muneo Kayo" />
+        </attvalues>
+      </node>
+      <node id="495" label="495">
+        <attvalues>
+          <attvalue for="0" value="Rodrigo Fonseca" />
+        </attvalues>
+      </node>
+      <node id="511" label="511">
+        <attvalues>
+          <attvalue for="0" value="Sérgio Roberto P. da Silva" />
+        </attvalues>
+      </node>
+      <node id="520" label="520">
+        <attvalues>
+          <attvalue for="0" value="Simone D. J. Barbosa" />
+        </attvalues>
+      </node>
+      <node id="534" label="534">
+        <attvalues>
+          <attvalue for="0" value="Tédi Itamar Zanfolim" />
+        </attvalues>
+      </node>
+      <node id="555" label="555">
+        <attvalues>
+          <attvalue for="0" value="Verison José Vicentin" />
+        </attvalues>
+      </node>
+      <node id="565" label="565">
+        <attvalues>
+          <attvalue for="0" value="Virgílio Almeida" />
+        </attvalues>
+      </node>
+      <node id="571" label="571">
+        <attvalues>
+          <attvalue for="0" value="Wagner José Dizeró" />
+        </attvalues>
+      </node>
+      <node id="572" label="572">
+        <attvalues>
+          <attvalue for="0" value="Wagner Meira Jr." />
+        </attvalues>
+      </node>
+      <node id="573" label="573">
+        <attvalues>
+          <attvalue for="0" value="Walter de Abreu Cybis" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="39" target="495" weight="1" />
+      <edge id="1" source="39" target="565" weight="1" />
+      <edge id="2" source="39" target="572" weight="1" />
+      <edge id="3" source="63" target="79" weight="1" />
+      <edge id="4" source="63" target="479" weight="1" />
+      <edge id="5" source="63" target="534" weight="1" />
+      <edge id="6" source="76" target="187" weight="1" />
+      <edge id="7" source="76" target="250" weight="1" />
+      <edge id="8" source="76" target="286" weight="1" />
+      <edge id="9" source="79" target="479" weight="2" />
+      <edge id="10" source="79" target="534" weight="2" />
+      <edge id="11" source="97" target="239" weight="1" />
+      <edge id="12" source="105" target="511" weight="1" />
+      <edge id="13" source="105" target="520" weight="1" />
+      <edge id="14" source="117" target="262" weight="2" />
+      <edge id="15" source="117" target="469" weight="1" />
+      <edge id="16" source="117" target="252" weight="1" />
+      <edge id="17" source="125" target="555" weight="1" />
+      <edge id="18" source="125" target="571" weight="1" />
+      <edge id="19" source="187" target="250" weight="2" />
+      <edge id="20" source="187" target="286" weight="2" />
+      <edge id="21" source="202" target="239" weight="1" />
+      <edge id="22" source="203" target="289" weight="1" />
+      <edge id="23" source="203" target="386" weight="1" />
+      <edge id="24" source="217" target="399" weight="1" />
+      <edge id="25" source="217" target="437" weight="1" />
+      <edge id="26" source="250" target="286" weight="2" />
+      <edge id="27" source="262" target="469" weight="4" />
+      <edge id="28" source="289" target="386" weight="2" />
+      <edge id="29" source="348" target="377" weight="1" />
+      <edge id="30" source="348" target="405" weight="1" />
+      <edge id="31" source="348" target="573" weight="1" />
+      <edge id="32" source="377" target="405" weight="2" />
+      <edge id="33" source="377" target="573" weight="2" />
+      <edge id="34" source="399" target="437" weight="3" />
+      <edge id="35" source="405" target="573" weight="2" />
+      <edge id="36" source="479" target="534" weight="2" />
+      <edge id="37" source="495" target="565" weight="2" />
+      <edge id="38" source="495" target="572" weight="2" />
+      <edge id="39" source="511" target="520" weight="2" />
+      <edge id="40" source="555" target="571" weight="2" />
+      <edge id="41" source="565" target="572" weight="2" />
+    </edges>
+  </graph>
+</gexf>

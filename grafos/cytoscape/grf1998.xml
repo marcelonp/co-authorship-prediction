@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="long" for="edge" id="d1" />
+  <key attr.name="p_name" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="39">
+      <data key="d0">Ana Paula Ribeiro</data>
+    </node>
+    <node id="63">
+      <data key="d0">Antonio Carlos dos Santos</data>
+    </node>
+    <node id="76">
+      <data key="d0">Beatriz Mascia Daltrini</data>
+    </node>
+    <node id="79">
+      <data key="d0">Brenner Stefan Gomes Silva</data>
+    </node>
+    <node id="97">
+      <data key="d0">Carlos Neves Júnior</data>
+    </node>
+    <node id="105">
+      <data key="d0">Cecília K.V. da Cunha</data>
+    </node>
+    <node id="117">
+      <data key="d0">Clarisse Sieckenius de Souza</data>
+    </node>
+    <node id="125">
+      <data key="d0">Claudio Kirner</data>
+    </node>
+    <node id="187">
+      <data key="d0">Elton José da Silva</data>
+    </node>
+    <node id="202">
+      <data key="d0">Fábio de Nogueira de Lucena</data>
+    </node>
+    <node id="203">
+      <data key="d0">Fábio Nemetz</data>
+    </node>
+    <node id="214">
+      <data key="d0">Fernando Lazzetta</data>
+    </node>
+    <node id="217">
+      <data key="d0">Flavia Rossler</data>
+    </node>
+    <node id="239">
+      <data key="d0">Hans K. E. Liesenberg</data>
+    </node>
+    <node id="250">
+      <data key="d0">Igor Prata Soare</data>
+    </node>
+    <node id="252">
+      <data key="d0">Isa Haro Martins</data>
+    </node>
+    <node id="262">
+      <data key="d0">Jair Cavalcanti Leite</data>
+    </node>
+    <node id="286">
+      <data key="d0">José Geraldo Veloso Moreira</data>
+    </node>
+    <node id="289">
+      <data key="d0">José Valdeni de Lima</data>
+    </node>
+    <node id="341">
+      <data key="d0">Lucia Vilela Leite Filgueiras</data>
+    </node>
+    <node id="348">
+      <data key="d0">Luciano Gamez</data>
+    </node>
+    <node id="377">
+      <data key="d0">Marcelo Soares Pimenta</data>
+    </node>
+    <node id="386">
+      <data key="d0">Marco Antônio Alba Winckler</data>
+    </node>
+    <node id="399">
+      <data key="d0">Maria Cecília C. Baranauskas</data>
+    </node>
+    <node id="405">
+      <data key="d0">Mário Cesar Silveira</data>
+    </node>
+    <node id="437">
+      <data key="d0">Osvaldo Luiz de Oliveira</data>
+    </node>
+    <node id="469">
+      <data key="d0">Raquel Oliveira Prates</data>
+    </node>
+    <node id="479">
+      <data key="d0">Ricardo Muneo Kayo</data>
+    </node>
+    <node id="495">
+      <data key="d0">Rodrigo Fonseca</data>
+    </node>
+    <node id="511">
+      <data key="d0">Sérgio Roberto P. da Silva</data>
+    </node>
+    <node id="520">
+      <data key="d0">Simone D. J. Barbosa</data>
+    </node>
+    <node id="534">
+      <data key="d0">Tédi Itamar Zanfolim</data>
+    </node>
+    <node id="555">
+      <data key="d0">Verison José Vicentin</data>
+    </node>
+    <node id="565">
+      <data key="d0">Virgílio Almeida</data>
+    </node>
+    <node id="571">
+      <data key="d0">Wagner José Dizeró</data>
+    </node>
+    <node id="572">
+      <data key="d0">Wagner Meira Jr.</data>
+    </node>
+    <node id="573">
+      <data key="d0">Walter de Abreu Cybis</data>
+    </node>
+    <edge source="39" target="495">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="39" target="565">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="39" target="572">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="63" target="79">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="63" target="479">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="63" target="534">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="76" target="187">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="76" target="250">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="76" target="286">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="79" target="479">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="79" target="534">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="97" target="239">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="105" target="511">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="105" target="520">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="117" target="262">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="117" target="469">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="117" target="252">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="125" target="555">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="125" target="571">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="187" target="250">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="187" target="286">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="202" target="239">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="203" target="289">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="203" target="386">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="217" target="399">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="217" target="437">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="250" target="286">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="262" target="469">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="289" target="386">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="348" target="377">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="348" target="405">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="348" target="573">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="377" target="405">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="377" target="573">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="399" target="437">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="405" target="573">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="479" target="534">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="495" target="565">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="495" target="572">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="511" target="520">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="555" target="571">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="565" target="572">
+      <data key="d1">2</data>
+    </edge>
+  </graph>
+</graphml>
